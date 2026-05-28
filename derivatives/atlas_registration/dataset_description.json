@@ -1,0 +1,11 @@
+{
+  "Name": "atlas_registration",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "atlas_registration",
+      "Description": "Atlas registration outputs"
+    }
+  ]
+}

@@ -1,0 +1,1559 @@
+id,counts,newcounts,Name,structure_order,parent_id,parent_acronym,acronym
+0,420.0,420.0, background,0,,,background
+997,0.0,36558.0, root,0,,,root
+8,0.0,28565.0, Basic cell groups and regions,100,997.0,root,grey
+567,0.0,510.0, Cerebrum,200,8.0,grey,CH
+688,0.0,429.0, Cerebral cortex,300,567.0,CH,CTX
+695,0.0,424.0, Cortical plate,400,688.0,CTX,CTXpl
+315,0.0,326.0, Isocortex,500,695.0,CTXpl,Isocortex
+184,0.0,0.0, Frontal association cortex,600,315.0,Isocortex,FrA
+68,0.0,0.0, Frontal pole layer 1,700,184.0,FrA,FrA-1
+667,0.0,0.0, Frontal pole layer 2/3,800,184.0,FrA,FrA-2/3
+2325,0.0,0.0, Frontal pole layer 5,810,184.0,FrA,FrA-5
+500,0.0,1.0, motor cortex,900,315.0,Isocortex,M
+985,0.0,0.0, Primary motor cortex,1500,500.0,M,M1
+320,0.0,0.0, Primary motor cortex layer 1,1510,985.0,M1,M1-1
+943,0.0,0.0, Primary motor cortex layer 2/3,1520,985.0,M1,M1-2/3
+648,0.0,0.0, Primary motor cortex layer 5,1530,985.0,M1,M1-5
+844,0.0,0.0, Primary motor cortex layer 6a,1540,985.0,M1,M1-6a
+882,0.0,0.0, Primary motor cortex layer 6b,1540,985.0,M1,M1-6b
+2017,0.0,0.0, Frontal cortex area 3,2010,985.0,M1,FrC3
+2334,0.0,0.0, Frontal cortex area 3 layer1,2020,2017.0,FrC3,FrC3-1
+2335,0.0,0.0, Frontal cortex area 3 layer2/3,2020,2017.0,FrC3,FrC3-2/3
+2336,0.0,0.0, Frontal cortex area 3 layer5,2040,2017.0,FrC3,FrC3-5
+2337,0.0,0.0, Frontal cortex area 3 layer6a,2050,2017.0,FrC3,FrC3-6a
+2351,0.0,0.0, Frontal cortex area 3 layer6b,2060,2017.0,FrC3,FrC3-6b
+993,0.0,1.0, Secondary motor cortex,2100,500.0,M,M2
+656,1.0,1.0, Secondary motor cortex layer 1,2200,993.0,M2,M2-1
+962,0.0,0.0, Secondary motor cortex layer 2/3,2300,993.0,M2,M2-2/3
+767,0.0,0.0, Secondary motor cortex layer 5,2400,993.0,M2,M2-5
+1021,0.0,0.0, Secondary motor cortex layer 6a,2500,993.0,M2,M2-6a
+1085,0.0,0.0, Secondary motor cortex layer 6b,2600,993.0,M2,M2-6b
+453,0.0,17.0, Somatosensory cortex,2700,315.0,Isocortex,S
+322,0.0,17.0, Primary somatosensory cortex,2800,453.0,S,S1
+2338,0.0,0.0, Primary somatosensory area jaw,3410,322.0,S1,S1J
+2339,0.0,0.0, Primary somatosensory area jaw layer 1,3420,2338.0,S1J,S1J-1
+2340,0.0,0.0, Primary somatosensory area jaw layer 2/3,3430,2338.0,S1J,S1J-2/3
+2341,0.0,0.0, Primary somatosensory area jaw layer 4,3440,2338.0,S1J,S1J-4
+2342,0.0,0.0, Primary somatosensory area jaw layer 5,3450,2338.0,S1J,S1J-5
+2343,0.0,0.0, Primary somatosensory area jaw layer 6a,3460,2338.0,S1J,S1J-6a
+2344,0.0,0.0, Primary somatosensory area jaw layer 6b,3470,2338.0,S1J,S1J-6b
+793,0.0,0.0, Primary somatosensory area undefined layer 1,2900,322.0,S1,S1-1
+346,0.0,0.0, Primary somatosensory area undefined layer 2/3,3000,793.0,S1-1,S1-2/3
+865,0.0,0.0, Primary somatosensory area undefined layer 4,3100,793.0,S1-1,S1-4
+921,0.0,0.0, Primary somatosensory area undefined layer 5,3200,793.0,S1-1,S1-5
+686,0.0,0.0, Primary somatosensory area undefined layer 6a,3300,793.0,S1-1,S1-6a
+719,0.0,0.0, Primary somatosensory area undefined layer 6b,3400,793.0,S1-1,S1-6b
+329,0.0,0.0, Primary somatosensory cortex barrel field,4200,322.0,S1,S1BF
+981,0.0,0.0, Primary somatosensory cortex barrel field layer 1,4300,329.0,S1BF,S1BF-1
+201,0.0,0.0, Primary somatosensory cortex barrel field layer 2/3,4400,329.0,S1BF,S1BF-2/3
+1047,0.0,0.0, Primary somatosensory cortex barrel field layer 4,4500,329.0,S1BF,S1BF-4
+1070,0.0,0.0, Primary somatosensory cortex barrel field layer 5 ,4600,329.0,S1BF,S1BF-5
+1038,0.0,0.0, Primary somatosensory cortex barrel field layer 6a,4700,329.0,S1BF,S1BF-6a
+1062,0.0,0.0, Primary somatosensory cortex barrel field layer 6b,4800,329.0,S1BF,S1BF-6b
+337,0.0,0.0, Primary somatosensory cortex hindlimb region,4900,322.0,S1,S1HL
+1030,0.0,0.0, Primary somatosensory cortex hindlimb region layer 1,5000,337.0,S1HL,S1HL-1
+113,0.0,0.0, Primary somatosensory cortex hindlimb region layer 2/3,5100,337.0,S1HL,S1HL-2/3
+1094,0.0,0.0, Primary somatosensory cortex hindlimb region layer 4,5200,337.0,S1HL,S1HL-4
+1128,0.0,0.0, Primary somatosensory cortex hindlimb region layer 5,5300,337.0,S1HL,S1HL-5
+478,0.0,0.0, Primary somatosensory cortex hindlimb region layer 6a,5400,337.0,S1HL,S1HL-6a
+510,0.0,0.0, Primary somatosensory cortex hindlimb region layer 6b,5500,337.0,S1HL,S1HL-6b
+345,0.0,17.0, Primary somatosensory cortex upper lip region,5600,322.0,S1,S1ULp
+878,17.0,17.0, Primary somatosensory cortex upper lip region layer 1,5700,345.0,S1ULp,S1ULp-1
+657,0.0,0.0, Primary somatosensory cortex upper lip region layer 2/3,5800,345.0,S1ULp,S1ULp-2/3
+950,0.0,0.0, Primary somatosensory cortex upper lip region layer 4,5900,345.0,S1ULp,S1ULp-4
+974,0.0,0.0, Primary somatosensory cortex upper lip region layer 5,6000,345.0,S1ULp,S1ULp-5
+1102,0.0,0.0, Primary somatosensory cortex upper lip region layer 6a,6100,345.0,S1ULp,S1ULp-6a
+2,0.0,0.0, Primary somatosensory cortex upper lip region layer 6b,6200,345.0,S1ULp,S1ULp-6b
+2000,0.0,0.0, Primary somatosensory cortex dysgranular zone ,6210,322.0,S1,S1DZ
+2287,0.0,0.0, Primary somatosensory cortex dysgranular zone 1,6211,2000.0,S1DZ,S1DZ-1
+2288,0.0,0.0, Primary somatosensory cortex dysgranular zone 2/3,6212,2000.0,S1DZ,S1DZ-2/3
+2289,0.0,0.0, Primary somatosensory cortex dysgranular zone 4,6213,2000.0,S1DZ,S1DZ-4
+2290,0.0,0.0, Primary somatosensory cortex dysgranular zone 5,6214,2000.0,S1DZ,S1DZ-5
+2291,0.0,0.0, Primary somatosensory cortex dysgranular zone 6a,6215,2000.0,S1DZ,S1DZ-6a
+2292,0.0,0.0, Primary somatosensory cortex dysgranular zone 6b,6216,2000.0,S1DZ,S1DZ-6b
+2352,0.0,0.0, Primary somatosensory cortex oral dysgranular zone ,6220,322.0,S1,S1DZO
+2353,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 1,6221,2352.0,S1DZO,S1DZO-1
+2354,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 2/3,6222,2352.0,S1DZO,S1DZO-2/3
+2355,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 4,6223,2352.0,S1DZO,S1DZO-4
+2356,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 5,6224,2352.0,S1DZO,S1DZO-5
+2357,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 6a,6225,2352.0,S1DZO,S1DZO-6a
+2358,0.0,0.0, Primary somatosensory cortex oral dysgranular zone 6b,6226,2352.0,S1DZO,S1DZO-6b
+2041,0.0,0.0, Primary somatosensory cortex shoulder region,6230,322.0,S1,S1Sh
+2310,0.0,0.0, Primary somatosensory cortex shoulder region 1,6231,2041.0,S1Sh,S1Sh-1
+2311,0.0,0.0, Primary somatosensory cortex shoulder region 2/3,6232,2041.0,S1Sh,S1Sh-2/3
+2312,0.0,0.0, Primary somatosensory cortex shoulder region 4,6233,2041.0,S1Sh,S1Sh-4
+2313,0.0,0.0, Primary somatosensory cortex shoulder region 5,6234,2041.0,S1Sh,S1Sh-5
+2314,0.0,0.0, Primary somatosensory cortex shoulder region 6a,6235,2041.0,S1Sh,S1Sh-6a
+2315,0.0,0.0, Primary somatosensory cortex shoulder region 6b,6236,2041.0,S1Sh,S1Sh-6b
+369,0.0,0.0, Primary somatosensory cortex forelimb region,6300,322.0,S1,S1FL
+450,0.0,0.0, Primary somatosensory cortex forelimb region layer 1,6400,369.0,S1FL,S1FL-1
+854,0.0,0.0, Primary somatosensory cortex forelimb region layer 2/3,6500,369.0,S1FL,S1FL-2/3
+577,0.0,0.0, Primary somatosensory cortex forelimb region layer 4,6600,369.0,S1FL,S1FL-4
+625,0.0,0.0, Primary somatosensory cortex forelimb region layer 5,6700,369.0,S1FL,S1FL-5
+945,0.0,0.0, Primary somatosensory cortex forelimb region layer 6a,6800,369.0,S1FL,S1FL-6a
+1026,0.0,0.0, Primary somatosensory cortex forelimb region layer 6b,6900,369.0,S1FL,S1FL-6b
+361,0.0,0.0, Primary somatosensory cortex trunk region,7000,322.0,S1,S1Tr
+1006,0.0,0.0, Primary somatosensory cortex trunk region layer 1,7100,361.0,S1Tr,S1Tr-1
+670,0.0,0.0, Primary somatosensory cortex trunk region layer 2/3,7200,361.0,S1Tr,S1Tr-2/3
+1086,0.0,0.0, Primary somatosensory cortex trunk region layer 4,7300,361.0,S1Tr,S1Tr-4
+1111,0.0,0.0, Primary somatosensory cortex trunk region layer 5,7400,361.0,S1Tr,S1Tr-5
+9,0.0,0.0, Primary somatosensory cortex trunk region layer 6a,7500,361.0,S1Tr,S1Tr-6a
+461,0.0,0.0, Primary somatosensory cortex trunk region layer 6b,7600,361.0,S1Tr,S1Tr-6b
+378,0.0,0.0, Secondary somatosensory cortex,7700,453.0,S,S2
+873,0.0,0.0, Secondary somatosensory cortex layer 1,7800,378.0,S2,S2-1
+806,0.0,0.0, Secondary somatosensory cortex layer 2/3,7900,378.0,S2,S2-2/3
+1035,0.0,0.0, Secondary somatosensory cortex layer 4,8000,378.0,S2,S2-4
+1090,0.0,0.0, Secondary somatosensory cortex layer 5,8100,378.0,S2,S2-5
+862,0.0,0.0, Secondary somatosensory cortex layer 6a,8200,378.0,S2,S2-6a
+893,0.0,0.0, Secondary somatosensory cortex layer 6b,8300,378.0,S2,S2-6b
+44,0.0,1.0, Cingulate cortex area 24a (infralimbic),8400,315.0,Isocortex,A24a (IL)
+707,0.0,0.0, Cingulate cortex area 24a (infralimbic) layer 1,8500,44.0,A24a (IL),A24a (IL)-1
+747,0.0,0.0, Cingulate cortex area 24a (infralimbic) layer 2/3,8600,44.0,A24a (IL),A24a (IL)-2
+556,0.0,0.0, Cingulate cortex area 24a (infralimbic) layer 4,8700,44.0,A24a (IL),A24a (IL)-2/3
+827,0.0,0.0, Cingulate cortex area 24a (infralimbic) layer 5,8800,44.0,A24a (IL),A24a (IL)-5
+1054,1.0,1.0, Cingulate cortex area 24a (infralimbic) layer 6a,8900,44.0,A24a (IL),A24a (IL)-6a
+1081,0.0,0.0, Cingulate cortex area 24a (infralimbic) layer 6b,9000,44.0,A24a (IL),A24a (IL)-6b
+1057,0.0,0.0, Dysgranular insular cortex,9100,315.0,Isocortex,DI
+36,0.0,0.0, Dysgranular insular cortex layer 1,9200,1057.0,DI,DI-1
+180,0.0,0.0, Dysgranular insular cortex layer 2/3,9300,1057.0,DI,DI-2/3
+148,0.0,0.0, Dysgranular insular cortex layer 4,9400,1057.0,DI,DI-4
+187,0.0,0.0, Dysgranular insular cortex layer 5,9500,1057.0,DI,DI-5
+638,0.0,0.0, Dysgranular insular cortex layer 6a,9600,1057.0,DI,DI-6a
+662,0.0,0.0, Dysgranular insular cortex layer 6b,9700,1057.0,DI,DI-6b
+677,0.0,0.0, Granular insular cortex,9800,315.0,Isocortex,GI
+897,0.0,0.0, Granular insular cortex layer 1,9900,677.0,GI,GI-1
+1106,0.0,0.0, Granular insular cortex layer 2/3,10000,677.0,GI,GI-2/3
+1010,0.0,0.0, Granular insular cortex layer 4,10100,677.0,GI,GI-4
+1058,0.0,0.0, Granular insular cortex layer 5,10200,677.0,GI,GI-5
+857,0.0,0.0, Granular insular cortex layer 6a,10300,677.0,GI,GI-6a
+849,0.0,0.0, Granular insular cortex layer 6b,10400,677.0,GI,GI-6b
+247,0.0,0.0, Auditory cortex,10500,315.0,Isocortex,Au
+1011,0.0,0.0, Secondary auditory cortex dorsal area,10600,247.0,Au,AuD
+527,0.0,0.0, Secondary auditory cortex dorsal area layer 1,10700,1011.0,AuD,AuD-1
+600,0.0,0.0, Secondary auditory cortex dorsal area layer 2/3,10800,1011.0,AuD,AuD-2/3
+678,0.0,0.0, Secondary auditory cortex dorsal area layer 4,10900,1011.0,AuD,AuD-4
+252,0.0,0.0, Secondary auditory cortex dorsal area layer 5,11000,1011.0,AuD,AuD-5
+156,0.0,0.0, Secondary auditory cortex dorsal area layer 6a,11100,1011.0,AuD,AuD-6a
+243,0.0,0.0, Secondary auditory cortex dorsal area layer 6b,11200,1011.0,AuD,AuD-16b
+1002,0.0,0.0, Primary auditory cortex,11300,247.0,Au,Au1
+735,0.0,0.0, Primary auditory cortex layer 1,11400,1002.0,Au1,Au1-1
+251,0.0,0.0, Primary auditory cortex layer 2/3,11500,1002.0,Au1,Au1-2/3
+816,0.0,0.0, Primary auditory cortex layer 4,11600,1002.0,Au1,Au1-4
+847,0.0,0.0, Primary auditory cortex layer 5,11700,1002.0,Au1,Au1-5
+954,0.0,0.0, Primary auditory cortex layer 6a,11800,1002.0,Au1,Au1-6a
+1005,0.0,0.0, Primary auditory cortex layer 6b,11900,1002.0,Au1,Au1-6b
+1018,0.0,0.0, Secondary auditory cortex ventral area,12700,247.0,Au,AuV
+959,0.0,0.0, Secondary auditory cortex ventral area layer 1,12800,1018.0,AuV,AuV-1
+755,0.0,0.0, Secondary auditory cortex ventral area layer 2/3,12900,1018.0,AuV,AuV-2/3
+990,0.0,0.0, Secondary auditory cortex ventral area layer 4,13000,1018.0,AuV,AuV-4
+1023,0.0,0.0, Secondary auditory cortex ventral area layer 5,13100,1018.0,AuV,AuV-5
+520,0.0,0.0, Secondary auditory cortex ventral area layer 6a,13200,1018.0,AuV,AuV-6a
+598,0.0,0.0, Secondary auditory cortex ventral area layer 6b,13300,1018.0,AuV,AuV-6b
+669,0.0,0.0, Visual cortex,13400,315.0,Isocortex,V
+2170,0.0,0.0, Secondary visual cortex lateral area,14010,669.0,V,V2L
+402,0.0,0.0, Secondary visual cortex lateral area anterior region,14100,2170.0,V2L,V2La
+1074,0.0,0.0, Secondary visual cortex lateral area anterior region layer1,14200,402.0,V2La,V2La-1
+905,0.0,0.0, Secondary visual cortex lateral area anterior region layer2/3,14300,402.0,V2La,V2La-2/3
+1114,0.0,0.0, Secondary visual cortex lateral area anterior region layer4,14400,402.0,V2La,V2La-4
+233,0.0,0.0, Secondary visual cortex lateral area anterior region layer5,14500,402.0,V2La,V2La-5
+601,0.0,0.0, Secondary visual cortex lateral area anterior region layer6a,14600,402.0,V2La,V2La-6a
+649,0.0,0.0, Secondary visual cortex lateral area anterior region layer6b,14700,402.0,V2La,V2La-6b
+409,0.0,0.0, Secondary visual cortex lateral area intermediate region,14800,2170.0,V2L,V2Li
+421,0.0,0.0, Secondary visual cortex lateral area intermediate region layer1,14900,409.0,V2Li,V2Li-1
+973,0.0,0.0, Secondary visual cortex lateral area intermediate region layer2/3,15000,409.0,V2Li,V2Li-2/3
+573,0.0,0.0, Secondary visual cortex lateral area intermediate region layer4,15100,409.0,V2Li,V2Li-4
+613,0.0,0.0, Secondary visual cortex lateral area intermediate region layer5,15200,409.0,V2Li,V2Li-5
+74,0.0,0.0, Secondary visual cortex lateral area intermediate region layer6a,15300,409.0,V2Li,V2Li-6a
+121,0.0,0.0, Secondary visual cortex lateral area intermediate region layer6b,15400,409.0,V2Li,V2Li-6b
+425,0.0,0.0, Secondary visual cortex lateral area posterior region,15500,2170.0,V2L,V2Lp
+750,0.0,0.0, Secondary visual cortex lateral area posterior region layer1,15600,425.0,V2Lp,V2Lp-1
+269,0.0,0.0, Secondary visual cortex lateral area posterior region layer2/3,15700,425.0,V2Lp,V2Lp-2/3
+869,0.0,0.0, Secondary visual cortex lateral area posterior region layer4,15800,425.0,V2Lp,V2Lp-4
+902,0.0,0.0, Secondary visual cortex lateral area posterior region layer15,15900,425.0,V2Lp,V2Lp-5
+377,0.0,0.0, Secondary visual cortex lateral area posterior region layer6a,16000,425.0,V2Lp,V2Lp-6a
+393,0.0,0.0, Secondary visual cortex lateral area posterior region layer6b,16100,425.0,V2Lp,V2Lp-6b
+2096,0.0,0.0, Secondary Visual Cortex Medial area,16110,669.0,V,V2M
+2097,0.0,0.0, Secondary visual cortex mediolateral area,16120,2096.0,V2M,V2ML
+2393,0.0,0.0, Secondary visual cortex mediolateral area layer1,16130,2097.0,V2ML,V2ML-1
+2409,0.0,0.0, Secondary visual cortex mediolateral area layer2/3,16140,2097.0,V2ML,V2ML-2/3
+2410,0.0,0.0, Secondary visual cortex mediolateral area layer4,16150,2097.0,V2ML,V2ML-4
+2411,0.0,0.0, Secondary visual cortex mediolateral area layer5,16160,2097.0,V2ML,V2ML-5
+2412,0.0,0.0, Secondary visual cortex mediolateral area layer6a,16170,2097.0,V2ML,V2ML-6a
+2413,0.0,0.0, Secondary visual cortex mediolateral area layer6b,16180,2097.0,V2ML,V2ML-6b
+394,0.0,0.0, Secondary visual cortex mediomedial area anterior region,16200,2096.0,V2M,V2MMa
+281,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer1,16300,394.0,V2MMa,V2MMa-1
+1066,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer2/3,16400,394.0,V2MMa,V2MMa-2/3
+401,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer4,16500,394.0,V2MMa,V2MMa-4
+433,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer5,16600,394.0,V2MMa,V2MMa-5
+1046,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer6a,16700,394.0,V2MMa,V2MMa-6a
+441,0.0,0.0, Secondary visual cortex mediomedial area anterior region layer6b,16800,394.0,V2MMa,V2MMa-6b
+533,0.0,0.0, Secondary visual cortex mediomedial area posterior region,16900,2096.0,V2M,V2MMp
+805,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer1,17000,533.0,V2MMp,V2MMp-1
+41,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer2/3,17100,533.0,V2MMp,V2MMp-2/3
+501,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer4,17200,533.0,V2MMp,V2MMp-4
+565,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer5,17300,533.0,V2MMp,V2MMp-5
+257,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer6a,17400,533.0,V2MMp,V2MMp-6a
+469,0.0,0.0, Secondary visual cortex mediomedial area posterior region layer6b,17500,533.0,V2MMp,V2MMp-6b
+385,0.0,0.0, Primary visual cortex,17600,669.0,V,V1
+593,0.0,0.0, Primary visual cortex layer1,17700,385.0,V1,V1-1
+821,0.0,0.0, Primary visual cortex layer2/3,17800,385.0,V1,V1-2/3
+721,0.0,0.0, Primary visual cortex layer4,17900,385.0,V1,V1-4
+778,0.0,0.0, Primary visual cortex layer5,18000,385.0,V1,V1-5
+33,0.0,0.0, Primary visual cortex layer6a,18100,385.0,V1,V1-6a
+305,0.0,0.0, Primary visual cortex layer6b,18200,385.0,V1,V1-6b
+2098,0.0,0.0, Primary visual cortex monocular area,18210,385.0,V1,V1M
+2428,0.0,0.0, Primary visual cortex monocular area layer1,18220,2098.0,V1M,V1M-1
+2429,0.0,0.0, Primary visual cortex monocular area layer2/3,18230,2098.0,V1M,V1M-2/3
+2430,0.0,0.0, Primary visual cortex monocular area layer4,18240,2098.0,V1M,V1M-4
+2431,0.0,0.0, Primary visual cortex monocular area layer5,18250,2098.0,V1M,V1M-5
+2432,0.0,0.0, Primary visual cortex monocular area layer6a,18260,2098.0,V1M,V1M-6a
+2433,0.0,0.0, Primary visual cortex monocular area layer16b,18270,2098.0,V1M,V1M-6b
+2133,0.0,0.0, Primary visual cortex binocular area,18280,385.0,V1,V1B
+2434,0.0,0.0, Primary visual cortex binocular area layer1,18290,2133.0,V1B,V1B-1
+2435,0.0,0.0, Primary visual cortex binocular area layer2/3,18291,2133.0,V1B,V1B-2/3
+2436,0.0,0.0, Primary visual cortex binocular area layer4,18292,2133.0,V1B,V1B-4
+2437,0.0,0.0, Primary visual cortex binocular area layer5,18293,2133.0,V1B,V1B-5
+2438,0.0,0.0, Primary visual cortex binocular area layer6a,18294,2133.0,V1B,V1B-6a
+2439,0.0,0.0, Primary visual cortex binocular area layer6b,18295,2133.0,V1B,V1B-6b
+31,0.0,2.0, Cingulate cortex,18300,315.0,Isocortex,A24 (Cg)
+2345,0.0,2.0, Cingulate cortex area 24b ,18810,31.0,A24 (Cg),A24b (Cg1)
+2346,2.0,2.0, Cingulate cortex area 24b layer1,18820,2345.0,A24b (Cg1),A24b (Cg1)-1
+2347,0.0,0.0, Cingulate cortex area 24b layer2/3,18830,2345.0,A24b (Cg1),A24b (Cg1)-2/3
+2348,0.0,0.0, Cingulate cortex area 24b layer5,18840,2345.0,A24b (Cg1),A24b (Cg1)-5
+2349,0.0,0.0, Cingulate cortex area 24b layer6a,18850,2345.0,A24b (Cg1),A24b (Cg1)-6a
+2350,0.0,0.0, Cingulate cortex area 24b layer6b,18860,2345.0,A24b (Cg1),A24b (Cg1)-6b
+39,0.0,0.0, Cingulate cortex area 24b',18900,31.0,A24 (Cg),A24b' (Cg1)
+935,0.0,0.0, Cingulate cortex area 24b' layer1,19000,39.0,A24b' (Cg1),A24b' (Cg1)-1
+211,0.0,0.0, Cingulate cortex area 24b' layer2/3,19100,39.0,A24b' (Cg1),A24b' (Cg1)-2/3
+1015,0.0,0.0, Cingulate cortex area 24b' layer5,19200,39.0,A24b' (Cg1),A24b' (Cg1)-5
+919,0.0,0.0, Cingulate cortex area 24b' layer6a,19300,39.0,A24b' (Cg1),A24b' (Cg1)-6a
+927,0.0,0.0, Cingulate cortex area 24b' layer6b,19400,39.0,A24b' (Cg1),A24b' (Cg1)-6b
+48,0.0,0.0, Cingulate cortex area 24a',19500,31.0,A24 (Cg),A24a' (Cg2)
+588,0.0,0.0, Cingulate cortex area 24a' layer1,19600,48.0,A24a' (Cg2),A24a' (Cg2)-1
+296,0.0,0.0, Cingulate cortex area 24a' layer2/3,19700,48.0,A24a' (Cg2),A24a' (Cg2)-2/3
+772,0.0,0.0, Cingulate cortex area 24a' layer5,19800,48.0,A24a' (Cg2),A24a' (Cg2)-5
+810,0.0,0.0, Cingulate cortex area 24a' layer6a,19900,48.0,A24a' (Cg2),A24a' (Cg2)-6a
+819,0.0,0.0, Cingulate cortex area 24a' layer6b,20000,48.0,A24a' (Cg2),A24a' (Cg2)-6b
+972,0.0,8.0, Cingulate cortex area 32 (Prelimbic cortex),20100,315.0,Isocortex,A32 (PrL)
+171,8.0,8.0, Cingulate cortex area 32 (Prelimbic cortex) layer1,20200,972.0,A32 (PrL),A32 (PrL)-1
+195,0.0,0.0, Cingulate cortex area 32 (Prelimbic cortex) layer2,20300,972.0,A32 (PrL),A32 (PrL)-2
+304,0.0,0.0, Cingulate cortex area 32 (Prelimbic cortex) layer2/3,20400,972.0,A32 (PrL),A32 (PrL)-2/3
+363,0.0,0.0, Cingulate cortex area 32 (Prelimbic cortex) layer5,20500,972.0,A32 (PrL),A32 (PrL)-5
+84,0.0,0.0, Cingulate cortex area 32 (Prelimbic cortex) layer6a,20600,972.0,A32 (PrL),A32 (PrL)-6a
+132,0.0,0.0, Cingulate cortex area 32 (Prelimbic cortex) layer6b,20700,972.0,A32 (PrL),A32 (PrL)-6b
+714,0.0,0.0, Orbital cortex,20800,315.0,Isocortex,O
+723,0.0,0.0, Lateral orbital cortex,21400,714.0,O,LO
+448,0.0,0.0, Lateral orbital cortex layer1,21500,723.0,LO,LO-1
+412,0.0,0.0, Lateral orbital cortex layer2/3,21600,723.0,LO,LO-2/3
+630,0.0,0.0, Lateral orbital cortex layer5,21700,723.0,LO,LO-5
+440,0.0,0.0, Lateral orbital cortex layer6a,21800,723.0,LO,LO-6a
+488,0.0,0.0, Lateral orbital cortex layer6b,21900,723.0,LO,LO-6b
+731,0.0,0.0, Medial orbital cortex,22000,714.0,O,MO
+484,0.0,0.0, Medial orbital cortex layer1,22100,731.0,MO,MO-1
+524,0.0,0.0, Medial orbital cortex layer2/3,22200,731.0,MO,MO-2/3
+582,0.0,0.0, Medial orbital cortex layer5,22300,731.0,MO,MO-5
+620,0.0,0.0, Medial orbital cortex layer6a,22400,731.0,MO,MO-6a
+910,0.0,0.0, Medial orbital cortex layer6b,22500,731.0,MO,MO-6b
+738,0.0,0.0, Ventral orbital cortex,22600,714.0,O,VO
+2320,0.0,0.0, Orbital cortex ventral part layer 1,22610,738.0,VO,VO-1
+2321,0.0,0.0, Orbital cortex ventral part layer 2/3,22620,738.0,VO,VO-2/3
+2322,0.0,0.0, Orbital cortex ventral part layer 5,22630,738.0,VO,VO-5
+2323,0.0,0.0, Orbital cortex ventral part layer 6a,22640,738.0,VO,VO-6a
+2324,0.0,0.0, Orbital cortex ventral part layer 6b,22650,738.0,VO,VO-6b
+95,0.0,0.0, Agranular insular cortex,23300,315.0,Isocortex,AI
+2331,0.0,0.0, Agranular insular cortex layer 1,23310,95.0,AI,AI1
+2332,0.0,0.0, Agranular insular cortex layer 2/3,23320,95.0,AI,AI2/3
+2333,0.0,0.0, Agranular insular cortex layer 5,23330,95.0,AI,AI5
+104,0.0,0.0, Agranular insular cortex dorsal part,23400,95.0,AI,AID
+996,0.0,0.0, Agranular insular cortex dorsal part layer1,23500,104.0,AID,AID-1
+328,0.0,0.0, Agranular insular cortex dorsal part layer2/3,23600,104.0,AID,AID-2/3
+1101,0.0,0.0, Agranular insular cortex dorsal part layer5,23700,104.0,AID,AID-5
+783,0.0,0.0, Agranular insular cortex dorsal part layer6a,23800,104.0,AID,AID-6a
+831,0.0,0.0, Agranular insular cortex dorsal part layer6b,23900,104.0,AID,AID-6b
+2020,0.0,0.0, Dorsolateral orbital cortex,23910,104.0,AID,DLO
+2326,0.0,0.0, Dorsolateral orbital cortex layer 1,23920,2020.0,DLO,DLO-1
+2327,0.0,0.0, Dorsolateral orbital cortex layer 2/3,23930,2020.0,DLO,DLO-2/3
+2328,0.0,0.0, Dorsolateral orbital cortex layer 5,23940,2020.0,DLO,DLO-5
+2329,0.0,0.0, Dorsolateral orbital cortex layer 6a,23950,2020.0,DLO,DLO-6a
+2330,0.0,0.0, Dorsolateral orbital cortex layer 6b,23960,2020.0,DLO,DLO-6b
+111,0.0,0.0, Agranular insular cortex posterior part,24000,95.0,AI,AIP
+120,0.0,0.0, Agranular insular cortex posterior part layer1,24100,111.0,AIP,AIP-1
+163,0.0,0.0, Agranular insular cortex posterior part layer2/3,24200,111.0,AIP,AIP-2/3
+344,0.0,0.0, Agranular insular cortex posterior part layer5,24300,111.0,AIP,AIP-5
+314,0.0,0.0, Agranular insular cortex posterior part layer6a,24400,111.0,AIP,AIP-6a
+355,0.0,0.0, Agranular insular cortex posterior part layer6b,24500,111.0,AIP,AIP-6b
+119,0.0,0.0, Agranular insular cortex ventral part,24600,95.0,AI,AIV
+704,0.0,0.0, Agranular insular cortex ventral part layer1,24700,119.0,AIV,AIV-1
+694,0.0,0.0, Agranular insular cortex ventral part layer2/3,24800,119.0,AIV,AIV-2/3
+800,0.0,0.0, Agranular insular cortex ventral part layer5,24900,119.0,AIV,AIV-5
+675,0.0,0.0, Agranular insular cortex ventral part layer6a,25000,119.0,AIV,AIV-6a
+699,0.0,0.0, Agranular insular cortex ventral part layer6b,25100,119.0,AIV,AIV-6b
+254,0.0,296.0, Cingulate cortex area 29 and 30 (retrosplenial cortex),25200,315.0,Isocortex,A29-30 (RS)
+879,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex),25900,254.0,A29-30 (RS),A30 (RSD)
+442,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer1,26000,879.0,A30 (RSD),A30 (RSD)-1
+434,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer2/3,26100,879.0,A30 (RSD),A30 (RSD)-2/3
+545,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer4,26200,879.0,A30 (RSD),A30 (RSD)-4
+610,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer5,26300,879.0,A30 (RSD),A30 (RSD)-5
+274,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer6a,26400,879.0,A30 (RSD),A30 (RSD)-6a
+330,0.0,0.0, Cingulate cortex area 30 (Retrosplenial dysgranular cortex) layer6b,26500,879.0,A30 (RSD),A30 (RSD)-6b
+886,0.0,296.0, Cingulate cortex area 29 (Retrosplenial granular cortex),26600,254.0,A29-30 (RS),A29 (RSG)
+2132,0.0,45.0, Cingulate cortex area 29c (Retrosplenial granular cortex c),26610,886.0,A29 (RSG),A29c (RSGc)
+542,0.0,0.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer1,26700,2132.0,A29c (RSGc),A29c (RSGc)-1
+606,0.0,0.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer2,26800,2132.0,A29c (RSGc),A29c (RSGc)-2
+430,4.0,4.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer2/3,26900,2132.0,A29c (RSGc),A29c (RSGc)-2/3
+687,40.0,40.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer5,27000,2132.0,A29c (RSGc),A29c (RSGc)-5
+590,1.0,1.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer6a,27100,2132.0,A29c (RSGc),A29c (RSGc)-6a
+622,0.0,0.0, Cingulate cortex area 29c (Retrosplenial granular cortex c) layer6b,27200,2132.0,A29c (RSGc),A29c (RSGc)-6b
+2066,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b),27210,886.0,A29 (RSG),A29b (RSGb)
+2416,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b) layer1,27220,2066.0,A29b (RSGb),A29b (RSGb)-1
+2417,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b) layer2/3,27230,2066.0,A29b (RSGb),A29b (RSGb)-2/3
+2418,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b) layer5,27240,2066.0,A29b (RSGb),A29b (RSGb)-5
+2419,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b) layer6a,27250,2066.0,A29b (RSGb),A29b (RSGb)-6a
+2420,0.0,0.0, Cingulate cortex area 29b (Retrosplenial granular cortex b) layer6b,27260,2066.0,A29b (RSGb),A29b (RSGb)-6b
+2067,0.0,251.0, Cingulate cortex area 29a (Retrosplenial granular cortex a),27270,886.0,A29 (RSG),A29a (RSGa)
+2421,0.0,0.0, Cingulate cortex area 29a (Retrosplenial granular cortex a) layer1,27280,2067.0,A29a (RSGa),A29a (RSGa)-1
+2422,1.0,1.0, Cingulate cortex area 29a (Retrosplenial granular cortex a) layer2/3,27290,2067.0,A29a (RSGa),A29a (RSGa)-2/3
+2423,249.0,249.0, Cingulate cortex area 29a (Retrosplenial granular cortex a) layer5,27291,2067.0,A29a (RSGa),A29a (RSGa)-5
+2424,1.0,1.0, Cingulate cortex area 29a (Retrosplenial granular cortex a) layer6a,27292,2067.0,A29a (RSGa),A29a (RSGa)-6a
+2425,0.0,0.0, Cingulate cortex area 29a (Retrosplenial granular cortex a) layer6b,27293,2067.0,A29a (RSGa),A29a (RSGa)-6b
+22,0.0,0.0, parietal association cortex,27300,315.0,Isocortex,PtA
+2056,0.0,0.0, Medial parietal association cortex,27910,22.0,PtA,MPtA
+2381,0.0,0.0, Medial parietal association cortex layer 1,27911,2056.0,MPtA,MPtA-1
+2382,0.0,0.0, Medial parietal association cortex layer 2/3,27912,2056.0,MPtA,MPtA-2
+2383,0.0,0.0, Medial parietal association cortex layer 4,27913,2056.0,MPtA,MPtA-4
+2384,0.0,0.0, Medial parietal association cortex layer 5,27914,2056.0,MPtA,MPtA-5
+2385,0.0,0.0, Medial parietal association cortex layer 6a,27915,2056.0,MPtA,MPtA-6a
+2386,0.0,0.0, Medial parietal association cortex layer 6b,27916,2056.0,MPtA,MPtA-6b
+2057,0.0,0.0, Lateral parietal association cortex,27920,22.0,PtA,LPtA
+2387,0.0,0.0, Lateral parietal association cortex layer 1,27921,2057.0,LPtA,LPtA-1
+2388,0.0,0.0, Lateral parietal association cortex layer 2/3,27922,2057.0,LPtA,LPtA-2/3
+2389,0.0,0.0, Lateral parietal association cortex layer 4,27923,2057.0,LPtA,LPtA-4
+2390,0.0,0.0, Lateral parietal association cortex layer 5,27924,2057.0,LPtA,LPtA-5
+2391,0.0,0.0, Lateral parietal association cortex layer 6a,27925,2057.0,LPtA,LPtA-6a
+2392,0.0,0.0, Lateral parietal association cortex layer 6b,27926,2057.0,LPtA,LPtA-6b
+2082,0.0,0.0, parietal cortex posterior area dorsal part,27940,22.0,PtA,PtPD
+2402,0.0,0.0, Parietal cortex posterior area dorsal part layer1,27941,2082.0,PtPD,PtPD-1
+2403,0.0,0.0, Parietal cortex posterior area dorsal part layer2/3,27942,2082.0,PtPD,PtPD-2/3
+2404,0.0,0.0, Parietal cortex posterior area dorsal part layer4,27943,2082.0,PtPD,PtPD-4
+2405,0.0,0.0, Parietal cortex posterior area dorsal part layer5,27944,2082.0,PtPD,PtPD-5
+2406,0.0,0.0, Parietal cortex posterior area dorsal part layer6a,27945,2082.0,PtPD,PtPD-6a
+2407,0.0,0.0, Parietal cortex posterior area dorsal part layer6b,27946,2082.0,PtPD,PtPD-6b
+541,0.0,1.0, Temporal association cortex,28000,315.0,Isocortex,TeA 
+97,1.0,1.0, Temporal association cortex layer1,28100,541.0,TeA ,TeA-1
+1127,0.0,0.0, Temporal association cortex layer2/3,28200,541.0,TeA ,TeA-2/3
+234,0.0,0.0, Temporal association cortex layer4,28300,541.0,TeA ,TeA-4
+289,0.0,0.0, Temporal association cortex layer5,28400,541.0,TeA ,TeA-5
+729,0.0,0.0, Temporal association cortex layer6a,28500,541.0,TeA ,TeA-6a
+786,0.0,0.0, Temporal association cortex layer6b,28600,541.0,TeA ,TeA-6b
+922,0.0,0.0, Perihinal cortex,28700,315.0,Isocortex,PRh
+335,0.0,0.0, Perihinal cortex layer6a,28800,922.0,PRh,PRh-6a
+368,0.0,0.0, Perihinal cortex layer6b,28900,922.0,PRh,PRh-6b
+2286,0.0,0.0, Parietal cortex posterior area rostral part,28930,22.0,PtA,PtPR
+2396,0.0,0.0, Parietal cortex posterior area rostral part layer1,28931,2286.0,PtPR,PtPR-1
+2397,0.0,0.0, Parietal cortex posterior area rostral part layer2/3,28932,2286.0,PtPR,PtPR-2/3
+2398,0.0,0.0, Parietal cortex posterior area rostral part layer4,28933,2286.0,PtPR,PtPR-4
+2399,0.0,0.0, Parietal cortex posterior area rostral part layer5,28934,2286.0,PtPR,PtPR-5
+2400,0.0,0.0, Parietal cortex posterior area rostral part layer6a,28935,2286.0,PtPR,PtPR-6a
+2401,0.0,0.0, Parietal cortex posterior area rostral part layer6b,28936,2286.0,PtPR,PtPR-6b
+540,0.0,0.0, Perihinal cortex layer1,29000,922.0,PRh,PRh-1
+692,0.0,0.0, Perihinal cortex layer5,29100,922.0,PRh,PRh-5
+888,0.0,0.0, Perihinal cortex layer2/3,29200,922.0,PRh,PRh-2/3
+895,0.0,0.0, Ectorhinal cortex,29300,315.0,Isocortex,Ect
+836,0.0,0.0, Ectorhinal cortex layer1,29400,895.0,Ect,Ect-1
+427,0.0,0.0, Ectorhinal cortex layer2/3,29500,895.0,Ect,Ect-2/3
+988,0.0,0.0, Ectorhinal cortex layer5,29600,895.0,Ect,Ect-5
+977,0.0,0.0, Ectorhinal cortex layer6a,29700,895.0,Ect,Ect-6a
+1045,0.0,0.0, Ectorhinal cortex layer6b,29800,895.0,Ect,Ect-6b
+698,0.0,1.0, Olfactory areas,29900,695.0,CTXpl,OLF
+507,0.0,1.0, Main olfactory bulb,30000,698.0,OLF,MOB
+212,0.0,0.0, Glomerular layer of the olfactory bulb,30100,507.0,MOB,Gl
+220,1.0,1.0, Granule cell layer of the olfactory bulb,30200,507.0,MOB,GrO
+228,0.0,0.0, Internal plxiform layer of the olfactory bulb,30300,507.0,MOB,IPl
+236,0.0,0.0, Mitral cell layer of the olfactory bulb,30400,507.0,MOB,Mi
+244,0.0,0.0, External plexiform layer of the olfactory bulb,30500,507.0,MOB,EPl
+151,0.0,0.0, Accessory olfactory bulb,30600,698.0,OLF,AOB
+188,0.0,0.0, Glomerular layer of the accessory olfactory bulb,30700,151.0,AOB,GlA
+196,0.0,0.0, Granule cell layer of the accessory olfactory bulb,30800,151.0,AOB,GrA
+204,0.0,0.0, Mitral cell layer of the accessory olfactory bulb,30900,151.0,AOB,MiA
+2021,0.0,0.0, External plexiform layer of the accessory olfactory b,30910,151.0,AOB,EPIA
+159,0.0,0.0, Anterior olfactory area,31000,698.0,OLF,AO
+167,0.0,0.0, Anterior olfactory area dorsal part,31100,159.0,AO,AOD
+175,0.0,0.0, Anterior olfactory area external part,31200,159.0,AO,AOE
+160,0.0,0.0, Anterior olfactory area outer layer,31250,159.0,AO,AOOL
+183,0.0,0.0, Anterior olfactory area lateral part,31300,159.0,AO,AOL
+191,0.0,0.0, Anterior olfactory area medial part,31400,159.0,AO,AOM
+199,0.0,0.0, Anterior olfactory area posteroventral part,31500,159.0,AO,AOP/AOV
+2318,0.0,0.0, Anterior olfactory area ventral part,31510,199.0,AOP/AOV,AOV
+2319,0.0,0.0, Anterior olfactory area posterior part,31520,199.0,AOP/AOV,AOP
+589,0.0,0.0, Taenia tecta,31800,698.0,OLF,TT
+597,0.0,0.0, Dorsal tenia tecta,31900,589.0,TT,DTT
+1034,0.0,0.0, Dorsal tenia tecta layer 1,32100,589.0,TT,DTT1
+1042,0.0,0.0, Dorsal tenia tecta layer 2,32200,589.0,TT,DTT2
+1050,0.0,0.0, Dorsal tenia tecta layer 3,32300,589.0,TT,DTT3
+1059,0.0,0.0, Dorsal tenia tecta layer 4,32400,589.0,TT,DTT4
+605,0.0,0.0, Ventral tenia tecta,32500,589.0,TT,VTT
+1067,0.0,0.0, Ventral tenia tecta layer 1,32700,589.0,TT,VTT1
+1075,0.0,0.0, Ventral tenia tecta layer 2,32800,589.0,TT,VTT2
+1082,0.0,0.0, Ventral tenia tecta layer 3,32900,589.0,TT,VTT3
+814,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex),33000,698.0,OLF,A25 (DP)
+496,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex) layer1,33100,814.0,A25 (DP),A25 (DP)-1
+535,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex) layer2,33200,814.0,A25 (DP),A25 (DP)-2
+360,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex) layer2/3,33300,814.0,A25 (DP),A25 (DP)-2/3
+646,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex) layer5,33400,814.0,A25 (DP),A25 (DP)-5
+267,0.0,0.0, Cingulate cortex area 25 (dorsal peduncular cortex) layer6a,33500,814.0,A25 (DP),A25 (DP)-6a
+2019,0.0,0.0, Dorsal transition zone,33510,814.0,A25 (DP),DTr
+961,0.0,0.0, Piriform cortex,33600,698.0,OLF,PIR
+276,0.0,0.0, Piriform cortex 1,33800,961.0,PIR,Pir1
+284,0.0,0.0, Piriform cortex 2,33900,961.0,PIR,Pir2
+291,0.0,0.0, Piriform cortex 3,34000,961.0,PIR,Pir3
+2024,0.0,0.0, Cortex-amygdala transition zone,34010,961.0,PIR,CxA
+2303,0.0,0.0, Cortex-amygdala transition zone Layer1,34020,2024.0,CxA,CxA1
+2304,0.0,0.0, Cortex-amygdala transition zone Layer2,34030,2024.0,CxA,CxA2
+2305,0.0,0.0, Cortex-amygdala transition zone Layer3,34040,2024.0,CxA,CxA3
+619,0.0,0.0, Nucleus of the lateral olfactory tract,34100,698.0,OLF,LOT
+260,0.0,0.0, Nucleus of the lateral olfactory tract 1,34300,619.0,LOT,LOT1
+268,0.0,0.0, Nucleus of the lateral olfactory tract 2,34400,619.0,LOT,LOT2
+1139,0.0,0.0, Nucleus of the lateral olfactory tract 3,34500,619.0,LOT,LOT3
+631,0.0,0.0, cortical amygdaloid nucleus,34600,698.0,OLF,CO
+639,0.0,0.0, Anterior cortical amygdaloid nucleus,34700,631.0,CO,ACo 
+192,0.0,0.0, Anterior cortical amygdaloid nucleus layer1,34800,639.0,ACo ,ACo-1
+200,0.0,0.0, Anterior cortical amygdaloid nucleus layer2,34900,639.0,ACo ,ACo-2
+208,0.0,0.0, Anterior cortical amygdaloid nucleus layer3,35000,639.0,ACo ,ACo-3
+647,0.0,0.0, Posterior cortical amygdaloid area,35100,631.0,CO,PCO
+655,0.0,0.0, Posterolateral cortical amygdaloid area,35200,647.0,PCO,PLCo
+216,0.0,0.0, Posterolateral cortical amygdaloid area 1,35500,655.0,PLCo,PLCo1
+224,0.0,0.0, Posterolateral cortical amygdaloid area 2,35600,655.0,PLCo,PLCo2
+232,0.0,0.0, Posterolateral cortical amygdaloid area 3,35700,655.0,PLCo,PLCo3
+663,0.0,0.0, Posteromedial cortical amygdaloid area,35800,647.0,PCO,PMCo
+240,0.0,0.0, Posteromedial cortical amygdaloid area 1,36100,663.0,PMCo,PMCo1
+248,0.0,0.0, Posteromedial cortical amygdaloid area 2,36200,663.0,PMCo,PMCo2
+256,0.0,0.0, Posteromedial cortical amygdaloid area 3,36300,663.0,PMCo,PMCo3
+788,0.0,0.0, Rostral amygdalopiriform area,36400,698.0,OLF,RAPir
+408,0.0,0.0, Rostral amygdalopiriform area 1,36600,788.0,RAPir,RAPir1
+416,0.0,0.0, Rostral amygdalopiriform area 2,36700,788.0,RAPir,RAPir2
+424,0.0,0.0, Rostral amygdalopiriform area 3,36800,788.0,RAPir,RAPir3
+566,0.0,0.0, Amygdalopiriform transition area,36900,698.0,OLF,Apir
+1140,0.0,0.0, Postpiriform transition area layers 1,37100,566.0,Apir,APir1
+1141,0.0,0.0, Postpiriform transition area layers 2,37200,566.0,Apir,APir2
+1142,0.0,0.0, Postpiriform transition area layers 3,37300,566.0,Apir,APir3
+1089,0.0,97.0, Hippocampal formation,37400,695.0,CTXpl,HPF
+1080,0.0,5.0, Hippocampal region,37500,1089.0,HPF,HIP
+375,0.0,2.0, Ammon's horn,37600,1080.0,HIP,CA
+382,0.0,2.0, Field CA1 of the hippocampus,37700,375.0,CA,CA1
+391,0.0,0.0, Field CA1 of the hippocampus- lacunosum moleculare layer of the hippocampus,37800,382.0,CA1,CA1_LMol 
+399,0.0,0.0, Field CA1 of the hippocampus- oriens layer of the hippocampus,37900,382.0,CA1,CA1_Or
+407,0.0,0.0, Field CA1 of the hippocampus- pyramidal layer of the hippocampus,38000,382.0,CA1,CA1_Py
+415,2.0,2.0, Field CA1 of the hippocampus- radiatum layer of the hippocampus,38100,382.0,CA1,CA1_Rad
+423,0.0,0.0, Field CA2 of the hippocampus,38200,375.0,CA,CA2
+431,0.0,0.0, Field CA2 of the hippocampus- lacunosum moleculare layer of the hippocampus,38300,423.0,CA2,CA2_LMol 
+438,0.0,0.0, Field CA2 of the hippocampus- oriens layer of the hippocampus,38400,423.0,CA2,CA2_Or
+446,0.0,0.0, Field CA2 of the hippocampus- pyramidal layer of the hippocampus,38500,423.0,CA2,CA2_Py
+454,0.0,0.0, Field CA2 of the hippocampus- radiatum layer of the hippocampus,38600,423.0,CA2,CA2_Rad
+463,0.0,0.0, Field CA3 of the hippocampus,38700,375.0,CA,CA3
+471,0.0,0.0, Field CA3 of the hippocampus- lacunosum moleculare layer of the hippocampus,38800,463.0,CA3,CA3_LMol 
+479,0.0,0.0, Field CA3 of the hippocampus- stratum lucidum of the hippocampus,38900,463.0,CA3,SLu 
+486,0.0,0.0, Field CA3 of the hippocampus- oriens layer of the hippocampus,39000,463.0,CA3,CA3_Or
+495,0.0,0.0, Field CA3 of the hippocampus- pyramidal layer of the hippocampus,39100,463.0,CA3,CA3_Py
+504,0.0,0.0, Field CA3 of the hippocampus- radiatum layer of the hippocampus,39200,463.0,CA3,CA3_Rad
+726,0.0,3.0, Dentate gyrus,39300,1080.0,HIP,DG
+10703,3.0,3.0, Molecular layer of the dentate gyrus,39400,726.0,DG,MoDG
+10704,0.0,0.0, Polymorph layer of the dentate gyrus,39500,726.0,DG,PoDG
+632,0.0,0.0, Granule cell layer of the dentate gyrus,39600,726.0,DG,GrDG
+982,0.0,0.0, Fasciola cinereum,41000,1080.0,HIP,FC
+19,0.0,0.0, Induseum griseum,41100,1080.0,HIP,IG
+822,0.0,92.0, Retrohippocampal region,41200,1089.0,HPF,RHP
+909,0.0,17.0, Entorhinal area,41300,822.0,RHP,ENT
+918,0.0,17.0, Dorsolateral entorhinal cortex,41350,909.0,ENT,DLEnt
+1121,0.0,0.0, Dorsolateral entorhinal cortex layer 1,41400,918.0,DLEnt,DLEnt1
+20,0.0,0.0, Dorsolateral entorhinal cortex layer 2,41500,918.0,DLEnt,DLEnt2
+999,0.0,0.0, Dorsolateral entorhinal cortex layer 2/3,41600,918.0,DLEnt,DLEnt2/3
+715,0.0,0.0, Dorsolateral entorhinal cortex layer 2a,41700,918.0,DLEnt,DLEnta
+764,0.0,0.0, Dorsolateral entorhinal cortex layer 2b,41800,918.0,DLEnt,DLEntb
+52,0.0,0.0, Dorsolateral entorhinal cortex layer 3,41900,918.0,DLEnt,DLEnt3
+92,0.0,0.0, Dorsolateral entorhinal cortex layer 4,42000,918.0,DLEnt,DLEnt4
+312,0.0,0.0, Dorsolateral entorhinal cortex layer 4/5,42100,918.0,DLEnt,DLEnt4/5
+139,1.0,1.0, Dorsolateral entorhinal cortex layer 5,42200,918.0,DLEnt,DLEnt5
+387,0.0,0.0, Dorsolateral entorhinal cortex layer 5/6,42300,918.0,DLEnt,DLEnt5/6
+28,0.0,0.0, Dorsolateral entorhinal cortex layer 6a,42400,918.0,DLEnt,DLEnt6a
+60,0.0,0.0, Dorsolateral entorhinal cortex layer 6b,42500,918.0,DLEnt,DLEnt6b
+926,0.0,0.0, Dorsal intermediate entorhinal cortex,42700,909.0,ENT,DIEnt
+526,0.0,0.0, Dorsal intermediate entorhinal cortex layer 1,42800,926.0,DIEnt,DIEnt1
+543,0.0,0.0, Dorsal intermediate entorhinal cortex layer 2,42900,926.0,DIEnt,DIEnt2
+468,0.0,0.0, Dorsal intermediate entorhinal cortex layer 2a,43000,926.0,DIEnt,DIEnt2a
+508,0.0,0.0, Dorsal intermediate entorhinal cortex layer 2b,43100,926.0,DIEnt,DIEnt2b
+2408,0.0,0.0, Dorsal intermediate entorhinal cortex layer 2/3,43110,926.0,DIEnt,DIEnt2/3
+664,0.0,0.0, Dorsal intermediate entorhinal cortex layer 3,43200,926.0,DIEnt,DIEnt3
+712,0.0,0.0, Dorsal intermediate entorhinal cortex layer 4,43300,926.0,DIEnt,DIEnt4
+727,0.0,0.0, Dorsal intermediate entorhinal cortex layer 5,43400,926.0,DIEnt,DIEnt5
+550,0.0,0.0, Dorsal intermediate entorhinal cortex layer 5/6,43500,926.0,DIEnt,DIEnt5/6
+743,0.0,0.0, Dorsal intermediate entorhinal cortex layer 6,43600,926.0,DIEnt,DIEnt6
+934,0.0,0.0, Ventral intermediate entorhinal cortex,43700,909.0,ENT,VIEnt
+259,0.0,0.0, Ventral intermediate entorhinal cortex layer 1,43800,934.0,VIEnt,VIEnt1
+324,0.0,0.0, Ventral intermediate entorhinal cortex layer 2,43900,934.0,VIEnt,VIEnt2
+371,0.0,0.0, Ventral intermediate entorhinal cortex layer 3,44000,934.0,VIEnt,VIEnt3
+419,0.0,0.0, Ventral intermediate entorhinal cortex layer 4,44100,934.0,VIEnt,VIEnt4
+1133,0.0,0.0, Ventral intermediate entorhinal cortex layer 5/6,44200,934.0,VIEnt,VIEnt5/6
+2159,0.0,0.0, Medial entorhinal cortex,44220,909.0,ENT,MEnt
+2164,0.0,0.0, Medial entorhinal cortex layer 1,44230,2159.0,MEnt,MEnt1
+2444,0.0,0.0, Medial entorhinal cortex layer 2,44240,2159.0,MEnt,MEnt2
+2445,0.0,0.0, Medial entorhinal cortex layer 3,44250,2159.0,MEnt,MEnt3
+2446,0.0,0.0, Medial entorhinal cortex layer 5,44260,2159.0,MEnt,MEnt5
+2447,0.0,0.0, Medial entorhinal cortex layer 6,44270,2159.0,MEnt,MEnt6
+2161,0.0,0.0, Caudomedial entothinal cortex,44280,909.0,ENT,CEnt
+2448,0.0,0.0, Caudomedial entothinal cortex layer 1,44290,2161.0,CEnt,CEnt1
+2449,0.0,0.0, Caudomedial entothinal cortex layer 2,44291,2161.0,CEnt,CEnt2
+2450,0.0,0.0, Caudomedial entothinal cortex layer 3,44292,2161.0,CEnt,CEnt3
+2451,0.0,0.0, Caudomedial entothinal cortex layer 5,44293,2161.0,CEnt,CEnt5
+2452,0.0,0.0, Caudomedial entothinal cortex layer 6,44294,2161.0,CEnt,CEnt6
+1084,0.0,0.0, Presubiculum,45190,822.0,RHP,PsS
+10699,0.0,0.0, Presubiculum layer 1,45200,1084.0,PsS,PsS1
+10700,0.0,0.0, Presubiculum layer 2,45300,1084.0,PsS,PsS2
+10701,0.0,0.0, Presubiculum layer 3,45400,1084.0,PsS,PsS3
+843,0.0,0.0, Parasubiculum,44300,822.0,RHP,PaS
+10693,0.0,0.0, Parasubiculum layer 1,44400,843.0,PaS,PaS1
+10694,0.0,0.0, Parasubiculum layer 2,44500,843.0,PaS,PaS2
+10695,0.0,0.0, Parasubiculum layer 3,44600,843.0,PaS,PaS3
+1037,0.0,0.0, Postsubiculum,44700,822.0,RHP,Post
+10696,0.0,0.0, Postsubiculum layer 1,44800,1037.0,Post,Post1
+10697,0.0,0.0, Postsubiculum layer 2,44900,1037.0,Post,Post2
+10698,0.0,0.0, Postsubiculum layer 3,45000,1037.0,Post,Post3
+502,0.0,75.0, Subiculum,45500,822.0,RHP,SUB
+509,0.0,7.0, Dorsal subiculum,45600,502.0,SUB,DS
+829,0.0,0.0, Dorsal subiculum molecular layer,45700,509.0,DS,DS-m
+845,0.0,0.0, Dorsal subiculum pyramidal layer,45800,509.0,DS,DS-sp
+837,1.0,1.0, Dorsal subiculum stratum radiatum,45900,509.0,DS,DS-sr
+518,0.0,11.0, Ventral subiculum,46000,502.0,SUB,VeS
+853,10.0,10.0, Ventral subiculum molecular layer,46100,518.0,VeS,VeS-m
+870,0.0,0.0, Ventral subiculum pyramidal layer,46200,518.0,VeS,VeS-sp
+861,1.0,1.0, Ventral subiculum stratum radiatum,46300,518.0,VeS,VeS-sr
+2440,0.0,57.0, Subiculum transition area,46310,502.0,SUB,STr
+2441,51.0,51.0, Subiculum transition area molecular layer,46320,2440.0,STr,STr-m
+2442,0.0,0.0, Subiculum transition area pyramidal layer,46330,2440.0,STr,STr-sp
+2443,6.0,6.0, Subiculum transition area stratum radiatum,46340,2440.0,STr,STr-sr
+703,0.0,5.0, Cortical subplate,46400,688.0,CTX,CTXsp
+16,0.0,0.0, Layer 6b isocortex,46500,703.0,CTXsp,6b
+583,0.0,0.0, Claustrum,46600,703.0,CTXsp,Cl
+2002,0.0,0.0, Dorsal claustrum,46610,583.0,Cl,DCl
+2003,0.0,0.0, Ventral claustrum,46620,583.0,Cl,VCl
+942,0.0,5.0, Endopiriform nucleus,46700,703.0,CTXsp,En
+952,4.0,4.0, Dorsal endopiriform nucleus,46800,942.0,En,DEn 
+966,0.0,0.0, Ventral endopiriform nucleus,46900,942.0,En,VEn
+2085,1.0,1.0, Intermediate endopiriform claustrum,46910,942.0,En,IEn
+2426,0.0,0.0, Retroendopiriform nucleus ,46920,942.0,En,REn
+131,0.0,0.0, Lateral amygdaloid nucleus,47000,703.0,CTXsp,La
+2068,0.0,0.0, Lateral amygdaloid nucleus dorsolateral part,47010,131.0,La,LaDL
+2052,0.0,0.0, Lateral amygdaloid nucleus ventrolateral part,47020,131.0,La,LaVL
+2060,0.0,0.0, Lateral amygdaloid nucleus ventromedial part,47030,131.0,La,LaVM
+295,0.0,0.0, Basolateral amygdalar nucleus,47100,703.0,CTXsp,BL
+303,0.0,0.0, Basolateral amygdaloid nucleus anterior part,47200,295.0,BL,BLA
+311,0.0,0.0, Basolateral amygdaloid nucleus posterior part,47300,295.0,BL,BLP
+451,0.0,0.0, Basolateral amygdaloid nucleus ventral part,47400,295.0,BL,BLV
+319,0.0,0.0, Basomedial amygdalar nucleus,47500,703.0,CTXsp,BM
+327,0.0,0.0, Basomedial amygdaloid nucleus anterior part,47600,319.0,BM,BMA
+334,0.0,0.0, Basomedial amygdaloid nucleus posterior part,47700,319.0,BM,BMP
+780,0.0,0.0, Amygdalohippocampal area,47800,703.0,CTXsp,AHi
+2086,0.0,0.0, Amygdalohippocampal area anterolateral part,47810,780.0,AHi,AHiAL
+2087,0.0,0.0, Amygdalohippocampal area posteromedial part,47820,780.0,AHi,AHiPM
+2088,0.0,0.0, Amygdalohippocampal area posterolateral,47830,780.0,AHi,AHiPL
+623,0.0,81.0, Cerebral nuclei,47900,567.0,CH,CNU
+477,0.0,30.0, Striatum,48000,623.0,CNU,STR
+485,0.0,10.0, Striatum dorsal region,48100,477.0,STR,STRd
+672,0.0,10.0, Caudate Putamen ,48200,485.0,STRd,CP
+2376,0.0,0.0, Caudoputamen- rostral extreme,48210,672.0,CP,CPre
+2491,0.0,2.0, Caudoputamen- rostral,48220,672.0,CP,CPr
+2294,0.0,0.0, Caudoputamen- rostral medial,48221,2491.0,CPr,"CPr, m"
+2295,0.0,0.0, Caudoputamen- rostral intermediate dorsal,48222,2491.0,CPr,"CPr, imd"
+2296,2.0,2.0, Caudoputamen- rostral intermediate ventral,48223,2491.0,CPr,"CPr, imv"
+2497,0.0,0.0, Caudoputamen- rostral lateral,48224,2491.0,CPr,"CPr, l"
+2395,0.0,0.0, Caudoputamen- rostral lateral lateral strip,48225,2497.0,"CPr, l","CPr, l, ls"
+2297,0.0,0.0, Caudoputamen- rostral lateral ventromedial,48226,2497.0,"CPr, l","CPr, l, vm"
+2492,0.0,7.0, Caudoputamen- intermediate,48230,672.0,CP,CPi
+2498,0.0,1.0, Caudoputamen- intermediate dorsomedial,48231,2492.0,CPi,"CPi, dm"
+2299,0.0,0.0, Caudoputamen- intermediate dorsomedial dorsolateral,48232,2498.0,"CPi, dm","CPi, dm, dl"
+2298,1.0,1.0, Caudoputamen- intermediate dorsomedial intermedial,48233,2498.0,"CPi, dm","CPi, dm, im"
+2374,0.0,0.0, Caudoputamen- intermediate dorsomedial central dorsal,48234,2498.0,"CPi, dm","CPi, dm, cd"
+2380,0.0,0.0, Caudoputamen- intermediate dorsomedial dorsal tip ,48235,2498.0,"CPi, dm","CPi, dm, dt"
+2500,0.0,4.0, Caudoputamen- intermediate ventromedial,48236,2492.0,CPi,"CPi, vm"
+2302,2.0,2.0, Caudoputamen- intermediate ventromedial ventromedial,48237,2500.0,"CPi, vm","CPi, vm, vm"
+2480,2.0,2.0, Caudoputamen- intermediate ventromedial ventral,48238,2500.0,"CPi, vm","CPi, vm, v"
+2483,0.0,0.0, Caudoputamen- intermediate ventromedial central ventromedial,48239,2500.0,"CPi, vm","CPi, vm, cvm"
+2499,0.0,0.0, Caudoputamen- intermediate dorsolateral ,48240,2492.0,CPi,"CPi, dl"
+2300,0.0,0.0, Caudoputamen- intermediate dorsolateral dorsal,48241,2499.0,"CPi, dl","CPi, dl, d"
+2301,0.0,0.0, Caudoputamen- intermediate dorsolateral intermedial dorsal,48242,2499.0,"CPi, dl","CPi, dl, imd"
+2501,0.0,2.0, Caudoputamen- intermediate ventrolateral,48243,2492.0,CPi,"CPi, vl"
+2479,1.0,1.0, Caudoputamen- intermediate ventrolateral intermedial ventral,48244,2501.0,"CPi, vl","CPi, vl, imv"
+2482,0.0,0.0, Caudoputamen- intermediate ventrolateral ventral,48245,2501.0,"CPi, vl","CPi, vl, v"
+2481,0.0,0.0, Caudoputamen- intermediate ventrolateral ventral tip,48246,2501.0,"CPi, vl","CPi, vl, vt"
+2370,1.0,1.0, Caudoputamen- intermediate ventrolateral central ventrolateral,48247,2501.0,"CPi, vl","CPi, vl, cvl"
+2496,0.0,1.0, Caudoputamen- caudal,48250,672.0,CP,CPc
+2493,0.0,0.0, Caudoputamen- caudal dorsal,48251,2496.0,CPc,"CPc, d"
+2484,0.0,0.0, Caudoputamen- caudal dorsal dorsomedial,48252,2493.0,"CPc, d","CPc, d, dm"
+2485,0.0,0.0, Caudoputamen- caudal dorsal dorsolateral,48253,2493.0,"CPc, d","CPc, d, dl"
+2486,0.0,0.0, Caudoputamen- caudal dorsal ventromedial,48254,2493.0,"CPc, d","CPc, d, vm"
+2494,0.0,1.0, Caudoputamen- caudal intermediate,48255,2496.0,CPc,"CPc, i"
+2487,0.0,0.0, Caudoputamen- caudal intermediate dorsal,48256,2494.0,"CPc, i","CPc, i, d"
+2489,1.0,1.0, Caudoputamen- caudal intermediate ventromedial,48257,2494.0,"CPc, i","CPc, i, vm"
+2488,0.0,0.0, Caudoputamen- caudal intermediate ventrolateral,48258,2494.0,"CPc, i","CPc, i, vl"
+2490,0.0,0.0, Caudoputamen- caudal ventral,48259,2496.0,CPc,"CPc, v"
+2495,0.0,0.0, Caudoputamen- caudal extreme,48260,672.0,CP,CPce
+2001,0.0,0.0, Lateral stripe of the striatum ,48296,672.0,CP,LSS
+2050,0.0,0.0, Amygdalostriatal transition area,48297,672.0,CP,ASt 
+493,0.0,18.0, Striatum ventral region,48300,477.0,STR,STRv
+56,0.0,16.0, Accumbens nucleus,48400,493.0,STRv,Acb
+2074,15.0,15.0, Accumbens nucleus core region,48410,56.0,Acb,AcbC
+2006,1.0,1.0, Accumbens nucleus shell region,48420,56.0,Acb,AcbSh
+2007,0.0,0.0, Lateral accumbens shell region,48430,56.0,Acb,LAcbSh
+998,0.0,2.0, Interstitial nucleus of the posterior limb of the anterior commissure,48500,493.0,STRv,IPAC
+2012,1.0,1.0, Interstitial nucleus of the posterior limb of the anterior commissure medial part,48510,998.0,IPAC,IPACM
+2372,1.0,1.0, Interstitial nucleus of the posterior limb of the anterior commissure lateral part,48520,998.0,IPAC,IPACL
+754,0.0,0.0, Olfactory tubercle,48600,493.0,STRv,Tu
+481,0.0,0.0, Island of Calleja,48700,754.0,Tu,ICj
+489,0.0,0.0, Island of Calleja major island,48800,754.0,Tu,ICjM
+458,0.0,0.0, Olfactory tubercle 1 ,49000,754.0,Tu,Tu1
+465,0.0,0.0, Olfactory tubercle 2,49100,754.0,Tu,Tu2
+473,0.0,0.0, Olfactory tubercle 3,49200,754.0,Tu,Tu3
+2018,0.0,0.0, Navicular nucleus of the basal forebrain,49210,754.0,Tu,Nv
+275,0.0,2.0, Lateral septal complex,49300,477.0,STR,LSX
+242,0.0,2.0, Lateral septal nucleus,49400,275.0,LSX,LS
+250,0.0,0.0, Lateral septal nucleus dorsal part,49500,242.0,LS,LSD
+258,2.0,2.0, Lateral septal nucleus intermediate part,49600,242.0,LS,LSI
+266,0.0,0.0, Lateral septal nucleus ventral part,49700,242.0,LS,LSV
+2008,0.0,0.0, Zona limitans,49710,242.0,LS,ZL
+310,0.0,0.0, Septofimbrial nucleus,49800,275.0,LSX,SFi 
+333,0.0,0.0, Septohippocampal nucleus,49900,275.0,LSX,SHi 
+2009,0.0,0.0, Septohypothalamic nucleus,49910,275.0,LSX,SHy 
+278,0.0,0.0, Striatum-like amygdalar nuclei,50000,477.0,STR,sAMY
+23,0.0,0.0, Anterior amygdaloid area,50100,278.0,sAMY,AA
+292,0.0,0.0, Bed nucleus of the accessory olfactory tract,50200,278.0,sAMY,BAOT
+536,0.0,0.0, Central amygdalar nucleus,50300,278.0,sAMY,Ce
+544,0.0,0.0, Central amygdaloid nucleus capsular part,50400,536.0,Ce,CeC
+551,0.0,0.0, Central amygdaloid nucleus lateral part,50500,536.0,Ce,CeL
+559,0.0,0.0, Central amygdaloid nucleus medial part,50600,536.0,Ce,CeM
+1105,0.0,0.0, Intercalated nuclei of the amygdala,50700,278.0,sAMY,I
+2375,0.0,0.0, Intercalated amygdalar nucleus main part,50710,1105.0,I,IM
+403,0.0,0.0, Medial amygdaloid nucleus,50800,278.0,sAMY,Me
+411,0.0,0.0, Medial amygdaloid nucleus anterodorsal part,50900,403.0,Me,MeAD
+418,0.0,0.0, Medial amygdaloid nucleus anterventral part,51000,403.0,Me,MeAV
+426,0.0,0.0, Medial amygdaloid nucleus posterodorsal part,51100,403.0,Me,MePD
+435,0.0,0.0, Medial amygdaloid nucleus posteroventral part,51500,403.0,Me,MePV 
+803,0.0,51.0, Pallidum,51600,623.0,CNU,PAL
+1022,4.0,4.0, Globus pallidus,51800,803.0,PAL,GP
+1031,0.0,0.0, Entopeduncular nucleus,51900,803.0,PAL,EP
+835,0.0,7.0, Ventral pallidum,52000,803.0,PAL,VeP
+342,0.0,35.0, Substantia innominata,52100,803.0,PAL,SI
+2371,3.0,3.0, Substantia innominata basal part,52110,342.0,SI,SIB
+2027,32.0,32.0, Extension of the amygdala,52120,342.0,SI,EA
+2013,0.0,0.0, Cell bridges of the ventral striatum,52130,342.0,SI,CB
+298,0.0,0.0, Magnocellular nucleus,52200,835.0,VeP,MCPO
+2028,0.0,0.0, Basal nucleus (Meynert),52210,835.0,VeP,B
+826,0.0,0.0, Pallidum medial region,52300,803.0,PAL,PALm
+904,0.0,0.0, Medial septal complex,52400,826.0,PALm,MSC
+564,0.0,0.0, Medial septal nucleus,52500,904.0,MSC,MS
+2005,0.0,0.0, Lambdoid septal zone,52510,564.0,MS,Ld
+2280,0.0,0.0, Diagonal band nucleus,52600,904.0,MSC,NDB
+596,0.0,0.0, Nucleus of the vertical limb of the diagonal band,52610,2280.0,NDB,VDB
+2293,0.0,0.0, Lateral nucleus of the diagnoal band,52620,2280.0,NDB,LDB
+2004,0.0,0.0, Nucleus of the horizontal limb of the diagonal band,52630,2280.0,NDB,HDB
+581,0.0,0.0, Triangular septal nucleus,52700,826.0,PALm,TS
+809,0.0,5.0, Pallidum caudal region,52800,803.0,PAL,PALc
+2308,0.0,0.0, Nucleus of stria medullaris,52810,809.0,PALc,SM
+351,0.0,5.0, Bed nuclei of the stria terminalis,52900,809.0,PALc,ST
+359,0.0,1.0, Bed nuclei of the stria terminalis anterior division,53000,351.0,ST,STa
+537,0.0,0.0, Bed nucleus of the stria terminalis medial division anterolateral part,53100,359.0,STa,STMAL
+498,0.0,0.0, Bed nucleus of the stria terminalis medial division anterior part,53200,359.0,STa,STMA
+513,0.0,0.0, Bed nuclei of the stria terminalis fusiform nucleus,53400,359.0,STa,Fu
+546,0.0,0.0, Bed nucleus of the stria terminalis lateral division juxtacapsular part,53500,359.0,STa,STLJ
+554,1.0,1.0, Bed nucleus of the stria terminalis lateral division dorsal part,53700,359.0,STa,STLD
+529,0.0,0.0, Bed nucleus of the stria terminalis medial division posterolateral part,53900,359.0,STa,STMPL
+2359,0.0,0.0, Bed nuclei of the stria terminalis medial division,53910,351.0,ST,STm
+2010,0.0,0.0, Bed nucleus of the stria terminalis medial division ventral part,53920,2359.0,STm,STMV
+2025,0.0,0.0, Bed nucleus of the stria terminalis medial division posteromedial part,53930,2359.0,STm,STMPM
+367,0.0,0.0, Bed nuclei of the stria terminalis posterior division,54000,351.0,ST,STp
+578,0.0,0.0, Bed nucleus of the stria terminalis medial division anteromedial part,54200,367.0,STp,STMAM
+585,0.0,0.0, Bed nucleus of the stria terminalis medial division posterointermediate part,54300,367.0,STp,STMPI
+2360,0.0,4.0, Bed nuclei of the stria terminialis lateral division,54510,351.0,ST,STl
+2015,1.0,1.0, Bed nuclus of the stria terminalis lateral division posterior part,54520,2360.0,STl,STLP
+2014,3.0,3.0, Bed nucleus of the stria terminalis lateral division ventral part ,54530,2360.0,STl,STLV
+2022,0.0,0.0, Bed nucleus of the stria terminalis lateral division intermediate part,54540,2360.0,STl,STLI
+2049,0.0,0.0, Bed nucleus of the stria terminalis intraamygdaloid,54550,351.0,ST,STIA
+287,0.0,0.0, Bed nucleus of the anterior commissure,54600,809.0,PALc,BAC
+512,0.0,13.0, Cerebellum,54700,8.0,grey,CBL
+528,0.0,9.0, Cerebellar cortex,54800,512.0,CBL,CBX
+645,0.0,0.0, Vermal regions,54900,528.0,CBX,VERM
+912,0.0,0.0, Lobule 1 of the cerebellar vermis,55000,645.0,VERM,1Cb
+10707,0.0,0.0, Lobule 1 of the cerebellar vermis molecular layer,55100,912.0,1Cb,1Cb-mo
+10705,0.0,0.0, Lobule 1 of the cerebellar vermis granular layer,55300,912.0,1Cb,1Cb-gr
+976,0.0,0.0, Lobule 2 of the cerebellar vermis,55500,645.0,VERM,2Cb
+10710,0.0,0.0, Lobule 2 of the cerebellar vermis molecular layer,55600,976.0,2Cb,2Cb-mo
+10708,0.0,0.0, Lobule 2 of the cerebellar vermis granular layer,55800,976.0,2Cb,2Cb-gr
+984,0.0,0.0, Lobule 3 of the cerebellar vermis,55900,645.0,VERM,3Cb
+10713,0.0,0.0, Lobule 3 of the cerebellar vermis molecular layer,56000,984.0,3Cb,3Cb-mo
+10711,0.0,0.0, Lobule 3 of the cerebellar vermis granular layer,56200,984.0,3Cb,3Cb-gr
+928,0.0,0.0, Culmen,56300,645.0,VERM,CUL
+992,0.0,0.0, Lobule 4 of the cerebellar vermis,56400,928.0,CUL,4Cb
+1001,0.0,0.0, Lobule 5 of the cerebellar vermis,56800,928.0,CUL,5Cb
+1091,0.0,0.0, Lobules 4 and 5 of the cerebellar vermis,57200,928.0,CUL,4/5Cb
+10722,0.0,0.0, Lobules 4 and 5 of the cerebellar vermis molecular layer,57300,1091.0,4/5Cb,4/5Cb-mo
+10720,0.0,0.0, Lobules 4 and 5 of the cerebellar vermis granular layer,57500,1091.0,4/5Cb,4/5Cb-gr
+936,0.0,0.0, Lobule 6 of the cerebellar vermis,57600,645.0,VERM,6Cb
+10725,0.0,0.0, Lobule 6 of the cerebellar vermis molecular layer,57700,936.0,6Cb,6Cb-mo
+10723,0.0,0.0, Lobule 6 of the cerebellar vermis granular layer,57900,936.0,6Cb,6Cb-gr
+944,0.0,0.0, Lobule 7 of the cerebellar vermis,58000,645.0,VERM,7Cb
+10728,0.0,0.0, Lobule 7 of the cerebellar vermis molecular layer,58100,944.0,7Cb,7Cb-mo
+10726,0.0,0.0, Lobule 7 of the cerebellar vermis granular layer,58300,944.0,7Cb,7Cb-gr
+951,0.0,0.0, Lobule 8 of the cerebellar vermis,58400,645.0,VERM,8Cb
+10731,0.0,0.0, Lobule 8 of the cerebellar vermis molecular layer,58500,951.0,8Cb,8Cb-mo
+10729,0.0,0.0, Lobule 8 of the cerebellar vermis granular layer,58700,951.0,8Cb,8Cb-gr
+957,0.0,0.0, Lobule 9 of the cerebellar vermis,58800,645.0,VERM,9Cb
+10734,0.0,0.0, Lobule 9 of the cerebellar vermis molecular layer,58900,957.0,9Cb,9Cb-mo
+10732,0.0,0.0, Lobule 9 of the cerebellar vermis granular layer,59100,957.0,9Cb,9Cb-gr
+968,0.0,0.0, Lobule 10 of the cerebellar vermis,59200,645.0,VERM,10Cb
+10737,0.0,0.0, Lobule 10 of the cerebellar vermis molecular layer,59300,968.0,10Cb,10Cb-mo
+10735,0.0,0.0, Lobule 10 of the cerebellar vermis granular layer,59500,968.0,10Cb,10Cb-gr
+1073,0.0,9.0, Hemispheric regions,59600,528.0,CBX,HEM
+1007,0.0,1.0, Simple lobule,59700,1073.0,HEM,Sim
+10674,1.0,1.0, Simple lobule molecular layer,59800,1007.0,Sim,Sim-mo
+10672,0.0,0.0, Simple lobule granular layer,60000,1007.0,Sim,Sim-gr
+1056,0.0,0.0, Crus 1 of the ansiform lobule,60200,1073.0,HEM,Crus1
+10677,0.0,0.0, Crus 1 of the ansiform lobule molecular layer,60300,1056.0,Crus1,Crus1-mo
+10675,0.0,0.0, Crus 1 of the ansiform lobule granular layer,60500,1056.0,Crus1,Crus1-gr
+1064,0.0,1.0, Crus 2 of the ansiform lobule,60600,1073.0,HEM,Crus2
+10680,0.0,0.0, Crus 2 of the ansiform lobule molecular layer,60700,1064.0,Crus2,Crus2-mo
+10678,1.0,1.0, Crus 2 of the ansiform lobule granular layer,60900,1064.0,Crus2,Crus2-gr
+1025,0.0,3.0, Paramedian lobule,61000,1073.0,HEM,PM
+10683,3.0,3.0, Paramedian lobule molecular layer,61100,1025.0,PM,PM-mo
+10681,0.0,0.0, Paramedian lobule granular layer,61300,1025.0,PM,PM-gr
+1033,0.0,2.0, Copula of the pyramis,61400,1073.0,HEM,Cop
+10686,2.0,2.0, Copula of the pyramis molecular layer,61500,1033.0,Cop,Cop-mo
+10684,0.0,0.0, Copula of the pyramis granular layer,61700,1033.0,Cop,Cop-gr
+1041,0.0,2.0, Paraflocculus,61800,1073.0,HEM,PFl
+10689,2.0,2.0, Paraflocculus molecular layer,61900,1041.0,PFl,PFl-mo
+10687,0.0,0.0, Paraflocculus granular layer,62100,1041.0,PFl,PFl-gr
+1049,0.0,0.0, Flocculus,62200,1073.0,HEM,Fl
+10692,0.0,0.0, Flocculus molecular layer,62300,1049.0,Fl,Fl-mo
+10690,0.0,0.0, Flocculus granular layer,62500,1049.0,Fl,Fl-gr
+519,0.0,4.0, Cerebellar nuclei,62900,512.0,CBL,CBN
+989,0.0,0.0, Medial cerebellar nucleus,63000,519.0,CBN,Med
+2244,0.0,0.0, Medial cerebellar nucleus dorsolateral protuberance,63010,989.0,Med,MedDL
+2245,0.0,0.0, Medial cerebellar nucleus lateral part,63020,989.0,Med,MedL
+91,0.0,4.0, Interposed cerebellar nucleus,63100,519.0,CBN,Int
+2239,0.0,0.0, Interposed cerebellar nucleus anterior part,63110,91.0,Int,IntA
+2240,0.0,0.0, Interposed cerebellar nucleus dorsolateral hump,63120,91.0,Int,IntDL
+2241,0.0,0.0, Interposed cerebellar nucleus posterior part,63130,91.0,Int,IntP
+2242,4.0,4.0, Interposed cerebellar nucleus posterior parvicellular,63140,91.0,Int,IntPPC
+2281,0.0,0.0, Dentate nucleus ,63200,519.0,CBN,DN
+846,0.0,0.0, Lateral (dentate) cerebellar nucleus,63210,2281.0,DN,Lat
+2247,0.0,0.0, Lateral cerebellar nucleus parvicellular part,63220,2281.0,DN,LatPC
+343,0.0,28042.0, Brain stem,63300,8.0,grey,BS
+1129,0.0,6045.0, Interbrain,63400,343.0,BS,IB
+549,0.0,708.0, Thalamus,63500,1129.0,IB,TH
+2414,18.0,18.0, Periventricular gray ,63510,549.0,TH,PVG
+864,0.0,244.0, Thalamus sensory-motor cortex related,63600,549.0,TH,DORsm
+2115,0.0,0.0, Ethmoid thalamic nucleus,63610,864.0,DORsm,Eth
+2116,7.0,7.0, Retroethmoid nucleus,63620,864.0,DORsm,REth
+2117,0.0,0.0, Scaphoid thalamic nucleus,63630,864.0,DORsm,Sc
+2120,3.0,3.0, Posterior intralaminar thalamic nucleus,63640,864.0,DORsm,PIL
+637,0.0,183.0, Ventral group thalamic nucleus,63700,864.0,DORsm,VENT
+629,12.0,12.0, Ventrolateral thalamic nucleus,63800,637.0,VENT,VL
+2316,3.0,3.0, Ventral anterior thalamic nucleus,63810,637.0,VENT,VA
+685,165.0,165.0, Ventromedial thalamic nucleus,63900,637.0,VENT,VM
+709,0.0,3.0, Ventral posterior thalamic nucleus,64000,637.0,VENT,VP
+718,0.0,0.0, Ventral posterolateral thalamic nucleus,64100,709.0,VP,VPL
+733,0.0,2.0, Ventral posteromedial thalamic nucleus,64200,709.0,VP,VPM
+2362,0.0,0.0, Ventral posteromedial nucleus of the thalamus dorsal part,64210,733.0,VPM,VPMd
+2363,1.0,1.0, Ventral posteromedial nucleus of the thalamus ventral part,64220,733.0,VPM,VPMv
+2361,1.0,1.0, Ventral posterior nucleus of the thalamus parvicellular,64230,709.0,VP,VPPC
+406,0.0,51.0, Subparafascicular thalamic nucleus,64500,864.0,DORsm,SPF
+422,27.0,27.0, Subparafascicular thalamic nucleus parvicellular part,64700,406.0,SPF,SPFPC
+1044,0.0,0.0, Peripeduncular nucleus,64900,864.0,DORsm,PP
+2158,0.0,0.0, Subbrachial nucleus,64910,864.0,DORsm,SubB
+1008,0.0,0.0, Geniculate group of the thalamus,65000,864.0,DORsm,GENd
+475,0.0,0.0, Medial geniculate nucleus,65100,1008.0,GENd,MG
+1072,0.0,0.0, Medial geniculate nucleus dorsal part,65200,475.0,MG,MGD
+1079,0.0,0.0, Medial geniculate nucleus ventral part,65300,475.0,MG,MGV
+1088,0.0,0.0, Medial geniculate nucleus medial part,65400,475.0,MG,MGM
+2126,0.0,0.0, Marginal zone of the medial geniculate,65410,475.0,MG,MZMG
+170,0.0,0.0, Dorsal lateral geniculate nucleus,65500,1008.0,GENd,DLG
+856,0.0,445.0, Thalamus polymodal association cortex related,65600,549.0,TH,DORpm
+138,0.0,6.0, Lateral group of the dorsal thalamus,65700,856.0,DORpm,LAT
+218,0.0,0.0, Lateral posterior thalamic nucleus,65800,138.0,LAT,LP
+2069,0.0,0.0, Lateral posterior thalamic nucleus mediorostral part,65810,218.0,LP,LPMR
+2070,0.0,0.0, Lateral posterior thalamic nucleus mediocaudal part,65820,218.0,LP,LPMC
+2071,0.0,0.0, Lateral posterior thalamic nucleus laterorostral part,65830,218.0,LP,LPLR
+2127,0.0,0.0, Lateral posterior thalamic nucleus laterocaudal part,65840,218.0,LP,LPLC
+2094,0.0,0.0, Intramedullary thalamic area,65850,138.0,LAT,IMA
+1020,0.0,6.0, Posterior thalamic nuclear group,65900,138.0,LAT,Po
+2055,0.0,0.0, Angular thalamic nucleus,65910,1020.0,Po,Ang
+2128,4.0,4.0, Posterior thalamic nuclear group triangular part,65920,1020.0,Po,PoT
+1029,0.0,0.0, Posterior limitans thalamic nucleus,66000,138.0,LAT,PLi
+325,0.0,0.0, Suprageniculate thalamic nucleus,66100,138.0,LAT,SG
+239,0.0,345.0, Anterior group of the dorsal thalamus,66200,856.0,DORpm,ATN
+255,0.0,109.0, Anteroventral thalamic nucleus,66300,239.0,ATN,AV
+2035,54.0,54.0, Anteroventral thalamic nucleus ventrolateral part,66310,255.0,AV,AVVL
+2036,25.0,25.0, Anterovent thalamic nucleus dorsomedial part,66320,255.0,AV,AVDM
+1096,0.0,200.0, Anteromedial thalamic nucleus,66400,239.0,ATN,AM
+1104,37.0,37.0, Anteromedial thalamic nucleus ventral part,66600,1096.0,AM,AMV
+64,14.0,14.0, Anterodorsal thalamic nucleus,66700,239.0,ATN,AD
+1120,5.0,5.0, Interanteromedial thalamic nucleus,66800,239.0,ATN,IAM
+1113,15.0,15.0, Interanterodorsal thalamic nucleus,66900,239.0,ATN,IAD
+2282,0.0,2.0, Lateral dorsal nucleus of thalamus,67000,239.0,ATN,LD
+155,0.0,0.0, Laterodorsal thalamic nucleus ventrolateral part,67010,2282.0,LD,LDVL
+2046,2.0,2.0, Laterodorsal thalamic nucleus dorsomedial part,67020,2282.0,LD,LDDM
+444,0.0,62.0, Medial group of the dorsal thalamus,67100,856.0,DORpm,MED
+59,0.0,0.0, Intermediodorsal thalamic nucleus,67200,444.0,MED,IMD
+2091,0.0,0.0, Posteromedian thalamic nucleus,67210,444.0,MED,PoMn
+362,0.0,0.0, Mediodorsal thalamic nucleus,67300,444.0,MED,MD
+617,0.0,0.0, Mediodorsal thalamic nucleus central part,67400,362.0,MD,MDC
+626,0.0,0.0, Mediodorsal thalamic nucleus lateral part ,67500,362.0,MD,MDL
+636,0.0,0.0, Mediodorsal thalamic nucleus medial part,67600,362.0,MD,MDM
+366,0.0,62.0, Submedius thalamic nucleus,67700,444.0,MED,Sub
+2377,0.0,0.0, Submedius thalamic nucleus dorsal part,67710,366.0,Sub,SubD
+2378,25.0,25.0, Submedius thalamic nucleus ventral part,67720,366.0,Sub,SubV
+571,0.0,5.0, Midline group of the dorsal thalamus,67900,856.0,DORpm,MTN
+149,0.0,0.0, Paraventricular nucleus of the thalamus,68000,571.0,MTN,PVT
+3001,0.0,0.0, Paraventricular thalamic nucleus anterior part,68010,149.0,PVT,PVA
+2089,0.0,0.0, Paraventricular thalamic nucleus intermediate part,68020,149.0,PVT,PV
+2090,0.0,0.0, Paraventricular thalamic nucleus posterior part,68030,149.0,PVT,PVP
+15,0.0,0.0, Parataenial thalamic nucleus,68100,571.0,MTN,PT
+2038,0.0,0.0, Xiphoid thalamic nucleus,68110,571.0,MTN,Xi
+2039,0.0,0.0, Paraxiphoid nucleus of thalamus,68120,2038.0,Xi,PaXi
+2032,0.0,0.0, Accessory neuosecretory nuclei,68130,571.0,MTN,ANS
+181,0.0,5.0, Reuniens area,68200,571.0,MTN,RE
+2092,0.0,0.0, Reuniens thalamic nucleus,68210,181.0,RE,Re
+2093,0.0,0.0, Retrouniens area,68220,181.0,RE,RRe
+2037,5.0,5.0, Ventral reuniens thalamic nucleus,68230,181.0,RE,VRe 
+51,0.0,24.0, Intralaminar nuclei of the dorsal thalamus,68300,856.0,DORpm,ILM
+189,8.0,8.0, Rhomboid thalamic nucleus,68400,51.0,ILM,Rh
+599,2.0,2.0, Central medial thalamic nucleus,68500,51.0,ILM,CM
+907,0.0,0.0, Paracentral thalamic nucleus,68600,51.0,ILM,PC
+2064,0.0,0.0, Oval paracentral thalamic nucleus,68610,907.0,PC,OPC
+575,1.0,1.0, Centrolateral thalamic nucleus,68700,51.0,ILM,CL
+930,13.0,13.0, Parafascicular thalamic nucleus,68800,51.0,ILM,PaF
+262,2.0,2.0, Reticular nucleus (prethalamus),68900,856.0,DORpm,Rt
+1014,0.0,1.0, Geniculate group ventral thalamus,69000,856.0,DORpm,GENv
+27,1.0,1.0, Intergeniculate childlet,69100,1014.0,GENv,IGL
+178,0.0,0.0, Pregeniculate nucleus of the prethalamus,69200,1014.0,GENv,PrG
+2072,0.0,0.0, Pregeniculate nucleus magnocellular part,69210,178.0,PrG,PrGMC
+2073,0.0,0.0, Pregeniculate nucleus parvicellular part,69220,178.0,PrG,PrGPC
+321,0.0,0.0, Subgeniculate nucleus of the prethalamus,69500,1014.0,GENv,SubG
+958,0.0,0.0, Epithalamus,69600,856.0,DORpm,EPI
+483,0.0,0.0, Medial habenular nucleus,69700,958.0,EPI,MHb
+186,0.0,0.0, Lateral habenular nucleus,69800,958.0,EPI,LHb
+2058,0.0,0.0, Lateral habenular nucleus medial part,69810,186.0,LHb,LHbM
+2059,0.0,0.0, Lateral habenular nucleus lateral part,69820,186.0,LHb,LHbL
+953,0.0,0.0, Pineal gland,69900,958.0,EPI,Pi
+1097,0.0,5337.0, Hypothalamus,70000,1129.0,IB,HY
+157,0.0,7.0, Periventricular zone,70100,1097.0,HY,PVZ
+390,0.0,0.0, Supraoptic nucleus,70200,157.0,PVZ,SO
+2051,0.0,0.0, Supraoptic nucleus retrochiasmatic part,70210,390.0,SO,SOR
+2034,0.0,0.0, Episupraoptic nucleus,70220,390.0,SO,ESO
+332,0.0,0.0, Accessory supraoptic group,70300,157.0,PVZ,ASO
+432,0.0,0.0, Circulur nucleus,70400,332.0,ASO,Cir
+38,0.0,0.0, Paraventricular hypothalamic nucleus anterior part,70500,157.0,PVZ,PVH
+71,0.0,0.0, Paraventricular hypothalamic nucleus magnocellular division,70600,38.0,PVH,PVHm
+79,0.0,0.0, Paraventricular hypothalamic nucleus medial magnocellular part,70800,71.0,PVHm,PaMM
+652,0.0,0.0, Paraventricular hypothalamic nucleus lateral magnocellular part,71000,71.0,PVHm,PaLM
+660,0.0,0.0, Paraventricular hypothalamic nucleus posterior part,71100,71.0,PVHm,PaPo
+94,0.0,0.0, Paraventricular hypothalamic nucleus parvicellular division,71200,38.0,PVH,PVAp
+55,0.0,0.0, Paraventricular hypothalamic nucleus anterior parivcellular part,71300,94.0,PVAp,PaAP
+2026,0.0,0.0, Anterior perifornical nucleus,71310,55.0,PaAP,APF
+87,0.0,0.0, Paraventricular hypothalamic nucleus medial parvicellular part,71400,94.0,PVAp,PaMP
+30,0.0,0.0, Paraventricular hypothalamic nucleus ventral part,71600,157.0,PVZ,PaV
+223,0.0,7.0, Arcuate hypothalamic nucleus,71800,157.0,PVZ,Arc
+2061,0.0,0.0, Arcuate hypothalamic nucleus dorsal part,71810,223.0,Arc,ArcD
+2062,0.0,0.0, Arcuate hypothalamic nucleus lateral part,71820,223.0,Arc,ArcL
+2104,5.0,5.0, Arcuate hypothalamic nucleus lateroposterior part,71830,223.0,Arc,ArcLP
+2095,0.0,0.0, Arcuate hypothalamic nucleus medial part,71840,223.0,Arc,ArcM
+2103,2.0,2.0, Arcuate hypothalamic nucleus medial posterior part,71850,223.0,Arc,ArcMP
+141,0.0,13.0, Periventricular region,71900,1097.0,HY,PVR
+272,0.0,0.0, Anteroventral periventricular nucleus,72300,141.0,PVR,AVPe
+668,0.0,0.0, Dorsal hypothalamic area,72350,141.0,PVR,DA
+830,0.0,6.0, Dorsomedial hypothalamic nucleus,72400,141.0,PVR,DM
+2076,0.0,0.0, Dorsomedial hypothalamic nucleus dorsal part,72500,830.0,DM,DMD
+2077,0.0,0.0, Dorsomedial hypothalamic nucleus compact part,72600,830.0,DM,DMC
+2078,2.0,2.0, Dorsomedial hypothalamic nucleus ventral part,72700,830.0,DM,DMV
+452,0.0,0.0, Median preoptic nucleus,72800,141.0,PVR,MnPO
+2307,0.0,0.0, DA14 Dopamine Cells,72810,141.0,PVR,DA14
+523,0.0,4.0, Medial preoptic area,72900,141.0,PVR,MPA
+2016,1.0,1.0, Strial part of the preoptic area,72910,523.0,MPA,StA
+2023,0.0,0.0, Striohypothalamic nucleus,72920,523.0,MPA,StHy
+2306,0.0,0.0, Anterior commissural nucleus,72930,523.0,MPA,AC
+763,0.0,0.0, Vascular organ of the lamina terminalis,73000,141.0,PVR,VOLT
+914,0.0,0.0, Posterodorsal preoptic nucleus,73100,141.0,PVR,PDPO
+1109,1.0,1.0, Parastrial nucleus,73200,141.0,PVR,PS
+133,2.0,2.0, Periventricular hypothalamic nucleus,73500,141.0,PVR,Pe
+347,0.0,0.0, Subparaventricular zone of the hypothalamus,73600,141.0,PVR,SPa 
+286,0.0,0.0, Suprachiasmatic nucleus,73700,141.0,PVR,SCh
+2030,0.0,0.0, Suprachiasmatic nucleus dorsolateral part,73710,286.0,SCh,SChDL
+2031,0.0,0.0, Suprachiasmatic nucleus ventromedial part,73720,286.0,SCh,SChVM
+338,0.0,0.0, Subfornical organ,73800,141.0,PVR,SFO
+2011,0.0,0.0, Ventromedidal preoptic nucleus,73810,141.0,PVR,VMPO
+689,0.0,0.0, Ventrolateral preoptic nucleus,73900,141.0,PVR,VLPO
+467,0.0,1947.0, Hypothalamic medial zone,74000,1097.0,HY,MEZ 
+88,0.0,1.0, Anterior hypothalamic nucleus,74100,467.0,MEZ ,AHN
+700,0.0,0.0, Anterior hypothalamic area anterior part,74200,88.0,AHN,AHA
+708,1.0,1.0, Anterior hypothalamic area central part,74300,88.0,AHN,AHC
+724,0.0,0.0, Anterior hypothalamic area posterior part,74500,88.0,AHN,AHP
+2029,0.0,0.0, Lateroanterior hypothalamic nucleus,74510,88.0,AHN,LA
+2047,0.0,0.0, Stigmoid hypothalamic nucleus,74520,724.0,AHP,Stg
+331,0.0,687.0, Mammillary body,74600,467.0,MEZ ,MBO
+210,8.0,8.0, Lateral mamilllary nucleus,74700,331.0,MBO,LM
+491,0.0,211.0, Medial mammillary nucleus medial part,74800,331.0,MBO,MM
+2118,0.0,0.0, Mammillary recess of the 3rd ventricle,74810,491.0,MM,MRe
+2119,106.0,106.0, Medial mammillary nucleus lateral part,74820,491.0,MM,ML
+732,30.0,30.0, Medial mammillary nucleus median part,74900,491.0,MM,MnM
+525,0.0,454.0, Retromamillary nucleus,75000,331.0,MBO,RM
+1110,26.0,26.0, Retromamillary nucleus lateral part,75100,525.0,RM,RML
+1118,263.0,263.0, Retromamillary nucleus medial part,75200,525.0,RM,RMM
+557,0.0,14.0, Tuberomammillary nucleus,75300,331.0,MBO,TM
+1126,1.0,1.0, Dorsal tuberomammillary nucleus,75400,557.0,TM,DTM
+1,13.0,13.0, Ventral tuberomammillary nucleus,75500,557.0,TM,VTM
+515,0.0,0.0, Medial preoptic nucleus,75600,467.0,MEZ ,MPO
+748,0.0,0.0, Medial preoptic nucleus lateral part,75800,515.0,MPO,MPOL
+756,0.0,0.0, Medial preoptic nucleus medial part,75900,515.0,MPO,MPOM
+980,0.0,0.0, Premamillary nucleus dorsal part,76000,467.0,MEZ ,PMD
+1004,46.0,46.0, Premamillary nucleus ventral part,76100,467.0,MEZ ,PMV
+63,0.0,0.0, Paraventricular hypothalamic nucleus descending division,76200,467.0,MEZ ,PVHd
+439,0.0,0.0, Paraventricular hypothalamic nucleus dorsal cap,76300,63.0,PVHd,PaDC
+693,0.0,1.0, Ventromedial hypothalamic nucleus,76700,467.0,MEZ ,VMH
+2044,0.0,0.0, Ventromedial hypothalamic nucleus shell region,76710,693.0,VMH,VMHSh
+769,0.0,0.0, Ventromedial hypothalamic nucleus central part,76900,693.0,VMH,VMHC
+777,0.0,0.0, Ventromedial hypothalamic nucleus dorsomedial part,77000,693.0,VMH,VMHDM
+785,0.0,0.0, Ventromedial hypothalamic nucleus ventrolateral part,77100,693.0,VMH,VMHVL
+2474,0.0,1212.0, Posterior hypothalamic area,77110,467.0,MEZ ,PHA
+946,0.0,1212.0, Posterior hypothalamic nucleus,77150,2474.0,PHA,PH
+2364,713.0,713.0, Posterior hypothalamic nucleus dorsal part,77160,946.0,PH,PHnd
+2365,174.0,174.0, Posterior hypothalamic nucleus ventral part,77170,946.0,PH,PHnv
+2075,15.0,15.0, Posterior hypothalamic area dorsal part,77180,946.0,PH,PHD
+2102,4.0,4.0, Submammillothalamic nucleus,77190,946.0,PH,SMT
+290,0.0,3370.0, Hypothalamic lateral zone,77200,1097.0,HY,LZ
+2309,0.0,0.0, Juxtaparaventricular part of lateral hypothalamus,77300,194.0,LH,JPLH
+194,0.0,2881.0, Lateral hypothalamic area,77300,290.0,LZ,LH
+2065,6.0,6.0, Magnocellular nucleus of the lateral hypothalamus,77310,194.0,LH,MCLH
+2033,0.0,0.0, Ventrolateral hypothalamic nucleus ,77320,194.0,LH,VLH
+2105,73.0,73.0, Gemini hypothalamic nucleus,77330,194.0,LH,Gem
+2081,36.0,36.0, Peduncular lateral hypothalamus,77340,194.0,LH,PLH
+2048,0.0,0.0, Tuberal region of lateral hypothalamus,77350,194.0,LH,TuLH
+2473,0.0,0.0, Perifornical part of lateral hypothalamus,77360,194.0,LH,PeFLH
+226,38.0,38.0, Lateral preoptic area,77400,290.0,LZ,LPO
+2379,3.0,3.0, Paraterete nucleus,77610,290.0,LZ,PTe
+364,152.0,152.0, Parasubthalamic nucleus,77700,290.0,LZ,PSTh
+173,0.0,0.0, Retrochiasmatic area,77800,290.0,LZ,RCh
+2283,0.0,0.0, Retrochiasmatic area medial part,77850,173.0,RCh,RChM
+2042,0.0,0.0, Retrochiasmatic area lateral part,77810,173.0,RCh,RchL
+470,2.0,2.0, Subthalamic nucleus,77900,290.0,LZ,STh
+2063,0.0,0.0, Subincertal nucleus,77910,290.0,LZ,SubI
+614,0.0,36.0, Medial tuberal nucleus,78000,290.0,LZ,MTu
+2080,32.0,32.0, Terete hypothalamic nucleus,78010,614.0,MTu,Te
+2079,28.0,28.0, Perifornical nucleus,78020,290.0,LZ,PeF
+2111,5.0,5.0, Ventral linear nucleus of the thalamus,78030,290.0,LZ,VLi
+797,0.0,225.0, Zona incerta,78100,290.0,LZ,ZI
+2125,9.0,9.0, Zona incerta caudal part,78110,797.0,ZI,ZIC
+2043,0.0,0.0, Zona incerta rostral part,78120,797.0,ZI,ZIR
+2053,34.0,34.0, Zona incerta dosal part,78130,797.0,ZI,ZID
+2054,11.0,11.0, Zona incerta ventral part,78140,797.0,ZI,ZIV
+796,0.0,0.0, DA13 dopamine cells,78200,797.0,ZI,DA13
+2110,171.0,171.0, Nucleus of the fields of Forel,78300,797.0,ZI,F
+10671,0.0,0.0, Median eminence,78400,1097.0,HY,ME
+313,0.0,15477.0, Midbrain,78500,343.0,BS,MB
+2107,530.0,530.0, Prerubral field,78510,313.0,MB,PR
+339,0.0,10.0, Midbrain sensory related,78600,313.0,MB,MBsen
+2476,0.0,10.0, Superior colliculus,78610,339.0,MBsen,SC
+302,0.0,1.0, Superior colliculus sensory related,78700,2476.0,SC,SCs
+851,1.0,1.0, Optic layer of the superior colliculus,78800,302.0,SCs,Op
+842,0.0,0.0, Superficial gray layer of the superior colliculus,78900,302.0,SCs,SuG
+834,0.0,0.0, Zonal layer of superior colliculus,79000,302.0,SCs,Zo
+4,0.0,0.0, Inferior colliculus,79100,339.0,MBsen,IC
+811,0.0,0.0, Central nucleus of the inferior colliculus,79200,4.0,IC,CIC
+820,0.0,0.0, Dorsal cortex of the inferior colliculus,79300,4.0,IC,DCIC
+828,0.0,0.0, External cortex of the inferior colliculus,79400,4.0,IC,ECIC
+2188,0.0,0.0, External cortex of the inferior colliculus layer 1,79410,828.0,ECIC,ECIC1
+2189,0.0,0.0, External cortex of the inferior colliculus layer 2,79420,828.0,ECIC,ECIC2
+2190,0.0,0.0, External cortex of the inferior colliculus layer 3,79430,828.0,ECIC,ECIC3
+2457,0.0,0.0, Commissural nucleus of the inferior colliculus,79440,4.0,IC,Com
+2475,0.0,0.0, Recess of the inferior colliculus,79450,4.0,IC,ReIC
+580,0.0,0.0, Nucleus of the brachium of the inferior colliculus,79500,339.0,MBsen,BIC
+271,0.0,0.0, Sagulum nucleus,79600,339.0,MBsen,Sag
+874,0.0,0.0, Parabigeminal nucleus,79700,339.0,MBsen,PBG
+2163,0.0,0.0, Microcellular tegmental nucleus,79710,339.0,MBsen,MiTg
+460,0.0,0.0, Mesencephalic trigeminal nucleus,79800,339.0,MBsen,Me5
+2108,0.0,0.0, Subcommissural organ ,79810,339.0,MBsen,SCO
+323,0.0,13306.0, Midbrain motor related,79900,313.0,MB,MBmot
+2147,1691.0,1691.0, Mesencephalic reticular formation,79910,323.0,MBmot,mRt
+2131,1777.0,1777.0, prosomere 1 reticular formation,79920,323.0,MBmot,p1Rt
+2181,175.0,175.0, Isthmic reticular formation,79930,323.0,MBmot,isRt
+2154,181.0,181.0, Pararubral nucleus,79940,323.0,MBmot,PaR
+381,144.0,144.0, Substantia nigra reticular part,80000,323.0,MBmot,SNR
+749,0.0,4886.0, Ventral tegmental area,80100,323.0,MBmot,VTA
+2138,77.0,77.0, Paranigral nucleus of the VTA,80110,749.0,VTA,PN
+2144,205.0,205.0, Parainterfascicular nucleus of the VTA,80120,749.0,VTA,PIF
+2124,4070.0,4070.0, Parabranchial pigmented nucleus of the VTA,80130,749.0,VTA,PBP
+2427,530.0,530.0, Ventral tegmental area rostral part,80140,749.0,VTA,VTAR
+2112,60.0,60.0, Rostral interstitial nucleus of the medial longitudinal fasciculus,80150,313.0,MB,RI
+2101,28.0,28.0, DA11 dopamine cells,80160,313.0,MB,DA11
+246,0.0,403.0, Retroisthmic nucleus,80200,323.0,MBmot,RIs
+2153,403.0,403.0, Retrorubral field,80210,246.0,RIs,RRF
+294,0.0,9.0, Superior colliculus motor related,80700,2476.0,SC,SCm
+26,3.0,3.0, Deep gray layer of the superior colliculus,80800,294.0,SCm,DpG
+42,5.0,5.0, Deep white layer of the superior colliculus,80900,294.0,SCm,DpWh
+17,1.0,1.0, Intermediate white layer of the superior colliculus,81000,294.0,SCm,InWh
+10,0.0,0.0, Intermediate gray layer of the superior colliculus,81100,294.0,SCm,InG
+795,0.0,174.0, Periaqueductal gray,81500,323.0,MBmot,PAG
+2141,0.0,0.0, Dorsomedial periaqueductal gray,81510,795.0,PAG,DMPAG
+2142,18.0,18.0, Lateral periaqueductal gray,81520,795.0,PAG,LPAG
+2143,0.0,0.0, Pleoglial periaqueductal gray,81530,795.0,PAG,PlPAG
+2148,0.0,0.0, Dorsolateral periaqueductal gray,81540,795.0,PAG,DLPAG
+2162,6.0,6.0, Ventrolateral periaqueductal gray,81550,795.0,PAG,VLPAG
+2114,70.0,70.0, prosomere 1 periaqueductal gray,81560,795.0,PAG,p1PAG
+2123,0.0,0.0, Lithoid nucleus,81570,323.0,MBmot,Lth
+50,8.0,8.0, Precommissural nucleus,81600,323.0,MBmot,PrC
+67,0.0,62.0, Interstitial nucleus of Cajal,81700,323.0,MBmot,InC
+2129,40.0,40.0, Interstitial nucleus of Cajal shell region,81710,67.0,InC,InCSh
+587,5.0,5.0, Nucleus of Darkschewitsch,81800,323.0,MBmot,Dk
+2152,0.0,0.0, Supraoculomotor cap,81810,323.0,MBmot,Su3C
+2156,0.0,0.0, Supraoculomotor periaqueductal gray,81820,323.0,MBmot,Su3
+1100,0.0,9.0, Pretectal region,81900,323.0,MBmot,PRT
+215,0.0,2.0, Anterior pretectal nucleus,82000,1100.0,PRT,APT
+2099,0.0,0.0, Anterior pretectal nucleus dorsal part,82010,215.0,APT,APTD
+2100,0.0,0.0, Anterior pretectal nucleus ventral part,82020,215.0,APT,APTV
+531,0.0,0.0, Medial pretectal area,82100,1100.0,PRT,MPT
+2415,0.0,0.0, Retrocommissural nucleus,82110,1100.0,PRT,ReC
+628,0.0,0.0, Nucleus of the optic tract,82200,1100.0,PRT,OT
+634,0.0,7.0, Nucleus of the posterior commissure,82300,1100.0,PRT,PCom
+2121,7.0,7.0, Magnocellular nucleus of the posterior commissure,82310,634.0,PCom,MCPC
+706,0.0,0.0, Olivary pretectal nucleus,82400,1100.0,PRT,OPT
+1061,0.0,0.0, Posterior pretectal nucleus,82500,1100.0,PRT,PPT
+2122,0.0,0.0, Retroparafascicular nucleus,82510,1100.0,PRT,RPF
+616,0.0,0.0, Cuneiform nucleus,82600,323.0,MBmot,CnF
+2192,0.0,0.0, Precuneiform area,82610,616.0,CnF,PrCnF
+214,0.0,2748.0, Red nucleus,82700,323.0,MBmot,R
+2137,1158.0,1158.0, Red nucleus parvicellular part,82710,214.0,R,RPC
+2139,1560.0,1560.0, Red nucleus magnocellular part,82720,214.0,R,RMC
+2136,62.0,62.0, Medial accessory oculomotor nucleus,82730,323.0,MBmot,MA3
+35,0.0,14.0, Oculomotor nerve,82800,323.0,MBmot,3N
+2157,1.0,1.0, Oculomotor nucleus parvicellular part,82810,35.0,3N,3PC
+975,0.0,89.0, Edinger-Westphal nucleus,82900,323.0,MBmot,EW
+2130,88.0,88.0, Pre-Edinger-Westphal nucleus,82910,975.0,EW,PrEW
+115,0.0,3.0, Trochlear nucleus,83000,323.0,MBmot,4N
+2180,0.0,0.0, Trochlear nucleus shell region,83010,115.0,4N,4Sh
+2179,3.0,3.0, Paratrochlear nucleus,83020,115.0,4N,Pa4
+757,12.0,12.0, Ventral tegmental nucleus,83100,323.0,MBmot,VTg
+231,65.0,65.0, Anterior tegmental nucleus,83200,323.0,MBmot,ATg
+2168,6.0,6.0, Rhabdoid nucleus,83210,323.0,MBmot,Rbd
+66,0.0,0.0, Lateral terminal nucleus of the accessory optic tract,83300,323.0,MBmot,LT
+75,0.0,0.0, Dorsal terminal nucleus,83400,323.0,MBmot,DT
+58,98.0,98.0, Medial terminal nucleus,83500,323.0,MBmot,MT
+615,0.0,0.0, Substantia nigra lateral part,83600,323.0,MBmot,SNL
+348,0.0,1542.0, Midbrain behavioral state related,83700,313.0,MB,MBsta
+374,0.0,257.0, Substantia nigra compact part,83800,348.0,MBsta,SNC
+2134,188.0,188.0, Substantia nigra compact part dorsal tier,83810,374.0,SNC,SNCD
+2135,69.0,69.0, Substantia nigra compact part medial tier,83820,374.0,SNC,SNCM
+1052,0.0,244.0, Pedunculotegmental nucleus,83900,348.0,MBsta,PTg
+2183,35.0,35.0, Subpeduncular tegmental nucleus,83910,1052.0,PTg,SPTg
+165,0.0,1041.0, Midbrain raphÈ nuclei,84000,348.0,MBsta,RAmb
+12,77.0,77.0, Interfascicular nucleus,84100,165.0,RAmb,IF
+100,0.0,91.0, Interpeduncular nucleus,84200,165.0,RAmb,IP
+2140,23.0,23.0, Interpeduncular nucleus rostral subnucleus,84210,100.0,IP,IPR
+2145,6.0,6.0, Interpeduncular nucleus lateral subnucleus,84220,100.0,IP,IPL
+2146,12.0,12.0, Interpeduncular nucleus caudal subnucleus,84230,100.0,IP,IPC
+2149,14.0,14.0, Interpeduncular nucleus dorsomedial subnucleus,84240,100.0,IP,IPDM
+2151,11.0,11.0, Interpeduncular nucleus dorsolateral subnucleus,84250,100.0,IP,IPDL
+2150,25.0,25.0, Interpeduncular nucleus intermediate subnucleus,84260,100.0,IP,IPI
+2160,0.0,0.0, Interpeduncular nucleus apical subnucleus,84270,100.0,IP,IPA
+197,688.0,688.0, Rostral linear nucleus (midbrain),84300,165.0,RAmb,RLi 
+591,119.0,119.0, Caudal linear nucleus of the raphÈ,84400,165.0,RAmb,CLi
+872,0.0,66.0, Dorsal raphÈ nucleus,84500,165.0,RAmb,DR
+2173,2.0,2.0, Dorsal raphÈ nucleus caudal part,84510,872.0,DR,DRC
+2174,0.0,0.0, Dorsal raphÈ nucleus dorsal part,84520,872.0,DR,DRD
+2175,2.0,2.0, Dorsal raphÈ interfascicular part,84530,872.0,DR,DRI
+2176,0.0,0.0, Dorsal raphÈ nucleus lateral part,84540,872.0,DR,DRL
+2177,9.0,9.0, Dorsal raphÈ nucleus ventral part,84550,872.0,DR,DRV
+2178,13.0,13.0, Posterodorsal raphÈ nucleus,84560,872.0,DR,PDR
+1065,0.0,6520.0, Hindbrain,84600,343.0,BS,HB
+771,0.0,4057.0, Pons,84700,1065.0,HB,P
+1132,0.0,879.0, Pons sensory related,84800,771.0,P,P-sen
+612,0.0,262.0, Paralemniscal nucleus,84900,1132.0,P-sen,PL
+82,0.0,0.0, Dorsal nucleus of the lateral lemniscus,85000,612.0,PL,DLL
+99,209.0,209.0, Ventral nucleus of the lateral lemniscus,85200,612.0,PL,VLL
+2172,44.0,44.0, Intermediate nucleus of the lateral lemniscus,85210,612.0,PL,ILL
+2184,9.0,9.0, Triangular nucleus lateral lemniscus,85220,612.0,PL,TrLL
+7,0.0,51.0, Principal sensory trigeminal nucleus,85300,1132.0,P-sen,Pr5
+2203,5.0,5.0, Principal sensory trigeminal nucleus dorsomedial part,85310,7.0,Pr5,Pr5DM
+2202,37.0,37.0, Principal sensory trigeminal nucleus ventrolateral part,85320,7.0,Pr5,Pr5VL
+867,0.0,7.0, Parabrachial nucleus,85400,1132.0,P-sen,PB
+123,0.0,0.0, Kolliker-Fuse nucleus,85500,867.0,PB,KF
+881,0.0,0.0, Lateral parabrachial nucleus,85600,867.0,PB,LPB
+860,0.0,0.0, Lateral parabrachial nucleus central part,85700,881.0,LPB,LPBC
+2458,0.0,0.0, Lateral parabrachial nucleus crescent part,85710,881.0,LPB,LPBCr
+868,0.0,0.0, Lateral parabrachial nucleus dorsal part,85800,881.0,LPB,LPBD
+875,0.0,0.0, Lateral parabrachial nucleus external part,85900,881.0,LPB,LPBE
+883,0.0,0.0, Lateral parabrachial nucleus superior part,86000,881.0,LPB,LPBS
+891,0.0,0.0, Lateral parabrachial nucleus ventral part,86100,881.0,LPB,LPBV
+2213,0.0,0.0, Lateral parabrachial nucleus internal part,86110,881.0,LPB,LPBI
+890,0.0,7.0, Medial parabrachial nucleus,86200,867.0,PB,MPB
+899,1.0,1.0, Medial parabrachial nucleus external part,86300,890.0,MPB,MPBE
+398,0.0,559.0, Superior olivary complex,86600,1132.0,P-sen,SOC
+122,0.0,127.0, Superior olivary complex periolivary nucleus,86700,398.0,SOC,POR
+2207,54.0,54.0, Lateroventral periolivary nucleus,86710,122.0,POR,LVPO
+2208,3.0,3.0, Medioventral periolivary nucleus,86720,122.0,POR,MVPO
+2209,70.0,70.0, Dorsal periolivary region,86730,122.0,POR,DPO
+2227,0.0,0.0, Caudal periolivary nucleus,86740,122.0,POR,CPO
+2456,9.0,9.0, Superior paraolivary nucleus,86750,398.0,SOC,SPO
+105,5.0,5.0, Medial superior olive,86800,398.0,SOC,MSO
+114,406.0,406.0, Lateral superior olive,86900,398.0,SOC,LSO
+2187,12.0,12.0, Nucleus of the central acoustic tract,86910,398.0,SOC,CAT
+987,0.0,165.0, Pons motor related,87000,771.0,P,P-mot
+2191,0.0,0.0, A7 noradrenaline cells,78320,987.0,P-mot,A7
+280,0.0,0.0, Barrington's nucleus,87100,987.0,P-mot,Bar
+2459,0.0,0.0, Barrington's nucleus dorsal part,87110,280.0,Bar,Bard
+2460,0.0,0.0, Barrington's nucleus ventral part,87120,280.0,Bar,Barv
+880,0.0,1.0, Dorsal tegmental nucleus,87200,987.0,P-mot,DTg
+2210,1.0,1.0, Dorsal tegmental nucleus central part,87210,880.0,DTg,DTgC
+2201,0.0,0.0, Dorsal tegmental nucleus pericentral part,87220,880.0,DTg,DTgP
+2230,0.0,0.0, Posterodorsal tegmental nucleus,87230,880.0,DTg,PDTg
+898,0.0,3.0, Central gray,87400,987.0,P-mot,CG
+2215,3.0,3.0, Central gray alpha part,87410,898.0,CG,CGA
+2216,0.0,0.0, Central gray beta part,87420,898.0,CG,CGB
+2231,0.0,0.0, Central gray gamma part,87430,898.0,CG,CGG
+2221,0.0,0.0, Central gray nucleus O,87440,898.0,CG,CGO
+931,4.0,4.0, Pontine nuclei,87500,987.0,P-mot,Pn
+2206,57.0,57.0, Pontine reticular nucleus caudal part,87600,987.0,P-mot,PnC
+2197,19.0,19.0, Dorsomedial tegmental area,87610,1117.0,P-sat,DMTg
+2220,0.0,0.0, Sphenoid nucleus,87710,987.0,P-mot,Sph
+318,0.0,0.0, Supragenual nucleus,87800,987.0,P-mot,SGe
+462,11.0,11.0, Superior salivatory nucleus,87900,987.0,P-mot,SuS
+534,9.0,9.0, Supratrigeminal nucleus,88000,987.0,P-mot,Su5
+574,0.0,15.0, Reticulotegmental nucleus of the pons,88100,987.0,P-mot,RtTg
+2165,6.0,6.0, Reticulotegmental nucleus of the pons pericentral part,88110,574.0,RtTg,RtTgP
+2166,2.0,2.0, B9 serotonin cells,88120,771.0,P,B9
+621,0.0,43.0, Motor trigeminal nucleus,88200,987.0,P-mot,5N
+2204,2.0,2.0, Motor trigeminal nucleus anterior digastric part,88210,621.0,5N,5ADi
+2453,5.0,5.0, Motor trigeminal nucleus temporalis part,88210,621.0,5N,5Te
+2194,1.0,1.0, Interfascicular trigeminar nucleus,88220,621.0,5N,IF5/5TT
+2454,4.0,4.0, Motor trigeminal nucleus masseter part,88220,621.0,5N,5Ma
+2455,12.0,12.0, Motor trigeminal nucleus medial pterygoid part,88230,621.0,5N,5MPt
+2193,22.0,22.0, Peritrigeminal zone,88230,987.0,P-mot,P5
+1117,0.0,2769.0, Pons behavioral state related,88300,771.0,P,P-sat
+679,0.0,330.0, Nucleus raphÈ,88400,1117.0,P-sat,NR
+137,229.0,229.0, Paramedian raphÈ nucleus,88500,679.0,NR,PMnR
+130,101.0,101.0, Median raphÈ nucleus,88600,679.0,NR,MnR
+147,0.0,0.0, Locus coeruleus,88700,1117.0,P-sat,LC
+2284,0.0,2.0, Laterodorsal tegmental nucleus,88800,1117.0,P-sat,LDT
+162,0.0,0.0, Laterodorsal tegmental nucleus dorsal part,88810,2284.0,LDT,LDTg
+2366,0.0,0.0, Laterodorsal tegmental nucleus dorsal part lateral division,88820,162.0,LDTg,LDTdl
+2367,0.0,0.0, Laterodorsal tegmental nucleus dorsal part medial division,88830,162.0,LDTg,LDTdm
+2195,2.0,2.0, Laterodorsal tegmental nucleus ventral part,88840,2284.0,LDT,LDTgV
+146,0.0,2359.0, Pontine reticular nucleus,89000,1117.0,P-sat,PRNr
+2205,2303.0,2303.0, Pontine reticular nucleus oral part,89010,146.0,PRNr,PnO
+2217,5.0,5.0, Pontine reticular nucleus ventral part,89020,146.0,PRNr,PnV
+2182,51.0,51.0, Epirubrospinal nucleus,89030,146.0,PRNr,ERS
+2185,35.0,35.0, Medial paralemniscial nucleus,89040,1117.0,P-sat,MPL
+2186,17.0,17.0, Perilemniscal nucleus ventral part,89050,1117.0,P-sat,PLV
+238,7.0,7.0, Pontine raphÈ nucleus,89100,1117.0,P-sat,PnR
+354,0.0,2463.0, Medulla,89400,1065.0,HB,MY
+2246,0.0,0.0, A5 noradrenaline cells,78330,354.0,MY,A5
+386,0.0,25.0, Medulla sensory related,89500,354.0,MY,MY-sen
+207,0.0,0.0, Area postrema,89600,386.0,MY-sen,AP
+2274,0.0,0.0, Area subpostrema,89610,386.0,MY-sen,SubP
+607,0.0,0.0, Cochlear nuclei,89700,386.0,MY-sen,CN
+112,0.0,0.0, Granule cell layer of the cochlear nuclei,89800,607.0,CN,GrC (VCCap in 81)
+560,0.0,0.0, Ventral cochlear nucleus granule cell layer,89900,607.0,CN,VCAGr
+96,0.0,0.0, Dorsal cochlear nucleus,90000,607.0,CN,DC
+2234,0.0,0.0, Dorsal cochlear nucleus molecular layer,90010,96.0,DC,DCMo
+2235,0.0,0.0, Dorsal cochlear nucleus fusiform layer,90020,96.0,DC,DCFu
+2236,0.0,0.0, Dorsal cochlear nucleus deep layer,90030,96.0,DC,DCDp
+101,0.0,0.0, Ventral cochlear nucleus,90100,607.0,CN,VC
+2238,0.0,0.0, Ventral cochlear nucleus anterior part,90110,101.0,VC,VCA
+2237,0.0,0.0, Ventral cochlear nucleus posterior part,90120,101.0,VC,VCP
+2243,0.0,0.0, Ventral cochlear nucleus posterior part octopus cell area,90130,101.0,VC,VCPO
+720,0.0,0.0, Dorsal column nuclei,90200,386.0,MY-sen,DCN
+711,0.0,0.0, Cuneate nucleus,90300,720.0,DCN,Cu
+2285,0.0,0.0, Cuneate nucleus dorsal part,90310,711.0,Cu,CuD
+2278,0.0,0.0, Cuneate nucleus rotundus part,90320,711.0,Cu,CuR
+1039,0.0,0.0, Gracile nucleus,90400,720.0,DCN,Gr
+903,0.0,0.0, External cuneate nucleus,90500,386.0,MY-sen,ECu
+642,4.0,4.0, Nucleus of the trapezoid body,90600,386.0,MY-sen,Tz
+2249,0.0,0.0, Trigeminal-solitary transition zone,90610,386.0,MY-sen,5Sol
+651,0.0,0.0, Solitary nucleus,90700,386.0,MY-sen,Sol
+659,0.0,0.0, Solitary nucleus central part,90800,651.0,Sol,SolCe
+666,0.0,0.0, Solitary nucleus commissural part,90900,651.0,Sol,SolC
+674,0.0,0.0, Solitary nucleus gelatinous part,91000,651.0,Sol,SolG
+2250,0.0,0.0, Solitary nucleus intermediate part,91010,651.0,Sol,SolIM
+682,0.0,0.0, Solitary nucleus lateral part,91100,651.0,Sol,SolL
+691,0.0,0.0, Solitary nucleus medial part,91200,651.0,Sol,SolM
+2263,0.0,0.0, Solitary nucleus ventral part,91210,651.0,Sol,SolV
+2273,0.0,0.0, Solitary nucleus ventrolateral part,91220,651.0,Sol,SolVL
+2271,0.0,0.0, Solitary nucleus dorsolateral part,91230,651.0,Sol,SolDL
+2264,0.0,0.0, Solitary nucleus dorsomedial part,91240,651.0,Sol,SolDM
+2265,0.0,0.0, Solitary nucleus interstitial part,91250,651.0,Sol,SolI
+2470,0.0,0.0, Soltary nucleus rostrolateral part,91260,651.0,Sol,SolRL
+429,0.0,0.0, Spinal trigeminal nucleus caudal part,91300,386.0,MY-sen,Sp5C
+437,1.0,1.0, Spinal trigeminal nucleus interpolar part,91400,386.0,MY-sen,Sp5I
+445,0.0,20.0, Spinal trigeminal nucleus oral part,91500,386.0,MY-sen,Sp5O
+45,0.0,0.0, Dorsomedial spinal trigeminal nucleus,91900,445.0,Sp5O,DMSp5
+2270,0.0,0.0, Paratrigeminal nucleus,92010,386.0,MY-sen,Pa5
+370,0.0,2163.0, Medulla motor related,92200,354.0,MY,MY-mot
+2477,0.0,0.0, Ad1 adrenaline cells,78340,370.0,MY-mot,Ad1
+2478,0.0,0.0, Ad2 adrenaline cells,78350,370.0,MY-mot,Ad2
+2266,0.0,0.0, Ad3 adrenaline cells,78360,370.0,MY-mot,Ad3
+2198,0.0,0.0, Subcoeruleus nucleus alpha part,92210,370.0,MY-mot,SubCA
+2199,3.0,3.0, Subcoeruleus nucleus dorsal part,92220,370.0,MY-mot,SubCD
+2200,507.0,507.0, Subcoeruleus nucleus ventral part,92230,370.0,MY-mot,SubCV
+653,0.0,0.0, Abducens nucleus,92300,370.0,MY-mot,6N
+2229,0.0,0.0, Paraabducens nucleus,92310,653.0,6N,Pa6
+2228,4.0,4.0, Abducens nucleus retractor bulbi part,92400,370.0,MY-mot,6RB
+661,0.0,488.0, Facial nucleus,92500,370.0,MY-mot,7N
+2226,58.0,58.0, Perifacial zone,92510,661.0,7N,P7
+2462,187.0,187.0, Facial nucleus lateral subnucleus,92520,661.0,7N,7L
+2463,38.0,38.0, Facial nucleus dorsolateral subnucleus,92530,661.0,7N,7DL
+2464,43.0,43.0, Facial nucleus ventral intermediate subnucleus,92540,661.0,7N,7VI
+2465,17.0,17.0, Facial nucleus dorsal intermediate subnucleus,92550,661.0,7N,7DI
+2466,1.0,1.0, Facial nucleus dorsomedial subnucleus,92560,661.0,7N,7DM
+2467,0.0,0.0, Facial nucleus ventromedial subnucleus,92570,661.0,7N,7VM 
+576,0.0,0.0, Facial motor nucleus stylohyoid part,92600,370.0,MY-mot,7SH
+640,0.0,0.0, Nucleus of the origin of efferents of the vestibular nerve,92700,370.0,MY-mot,EVe
+2472,0.0,45.0, Ambiguus nucleus,92800,370.0,MY-mot,Amb
+135,16.0,16.0, Ambiguus nucleus compact part,92810,2472.0,Amb,AmbC
+2277,20.0,20.0, Ambiguus nucleus loose part,92820,2472.0,Amb,AmbL
+2471,9.0,9.0, Retroambiguus nucleus,92830,2472.0,Amb,Rambn
+839,0.0,0.0, Vagus nerve nucleus,93100,370.0,MY-mot,10N
+1048,0.0,13.0, Gigantocellular reticular nucleus,93300,370.0,MY-mot,Gi
+2223,0.0,0.0, Gigantocellular reticular nucleus alpha part,93310,1048.0,Gi,GiA
+2224,4.0,4.0, Gigantocellular reticular nucleus ventral part,93320,1048.0,Gi,GiV
+83,0.0,2.0, Inferior olivary nucleus,93500,370.0,MY-mot,IO
+2253,0.0,0.0, Inferior olive subnucleus A of medial nucleus,93510,83.0,IO,IOA
+2254,0.0,0.0, Inferior olive subnucleus B of medial nucleus,93520,83.0,IO,IOB
+2255,0.0,0.0, Inferior olive subnucleus C of medial nucleus,93530,83.0,IO,IOC
+2256,0.0,0.0, Inferior olive dorsal nucleus,93540,83.0,IO,IOD
+2257,0.0,0.0, Inferior olive dorsomedial cell group,93550,83.0,IO,IODM
+2258,0.0,0.0, Inferior olive principal nucleus,93560,83.0,IO,IOPr
+2259,0.0,0.0, Inferior olive ventrolateral protrusion,93570,83.0,IO,IOVL
+2260,1.0,1.0, Inferior olive cap of Kooy of the medial nucleus,93580,83.0,IO,IOK
+2261,1.0,1.0, Inferior olive beta subnucleus of the medial nucleus,93590,83.0,IO,IOBe
+2262,0.0,0.0, Inferior olive medial nucleus,93595,83.0,IO,IOM
+136,0.0,499.0, Intermediate reticular nucleus,93600,370.0,MY-mot,IRt
+2225,33.0,33.0, Intermediate reticular nucleus alpha part,93610,136.0,IRt,IRtA
+106,0.0,0.0, Inferior salivatory nucleus,93700,370.0,MY-mot,IS
+203,0.0,0.0, Linear nucleus of the hindbrain,93800,370.0,MY-mot,Li
+235,0.0,43.0, Lateral reticular nucleus,93900,370.0,MY-mot,LRt
+963,0.0,0.0, Lateral reticular nucleus parvicellular part,94100,235.0,LRt,LRtPC
+395,0.0,8.0, Paramedian reticular nucleus,94300,370.0,MY-mot,PMn
+1098,2.0,2.0, Medullary reticular nucleus dorsal part,94400,395.0,PMn,MdD
+1107,6.0,6.0, Medullary reticular nucleus ventral part,94500,395.0,PMn,MdV
+852,0.0,457.0, Parvicellular reticular nucleus,94600,370.0,MY-mot,PCRt
+2214,413.0,413.0, Parvicellular reticular nucleus alpha part,94610,852.0,PCRt,PCRtA
+2211,1.0,1.0, Trigeminal transition zone,94620,370.0,MY-mot,5Tr
+859,0.0,0.0, Parasolitary nucleus,94700,370.0,MY-mot,PSol
+938,0.0,6.0, Lateral paragigantocellular nucleus,94800,370.0,MY-mot,LPGi
+2248,4.0,4.0, Lateral paragigantocellular nucleus external part,94810,938.0,LPGi,LPGiE
+970,0.0,0.0, Dorsal paragigantocellular nucleus,94900,938.0,LPGi,DPGi
+978,0.0,0.0, Paragigantocellular reticular nucleus lateral part,95000,938.0,LPGi,PGRNl
+2252,21.0,21.0, Caudoventrolateral reticular nucleus,95010,370.0,MY-mot,CVL
+2469,17.0,17.0, Rostroventrolateral reticular nucleus,95020,370.0,MY-mot,RVL
+2269,28.0,28.0, Rostral ventral respiratory group,95030,370.0,MY-mot,RVRG
+2468,0.0,8.0, Botzinger complex,95040,370.0,MY-mot,Bo
+2251,6.0,6.0, Pre-Botzinger complex,95050,2468.0,Bo,PrBo
+154,0.0,0.0, Perihypoglossal nuclei,95100,370.0,MY-mot,PHY
+161,0.0,0.0, Intercalated nucleus,95200,154.0,PHY,In
+2276,0.0,0.0, Intermedius nucleus of the medulla,95210,161.0,In,InM
+177,0.0,0.0, Nucleus of Roller,95300,154.0,PHY,Ro
+169,0.0,0.0, Prepositus nucleus,95400,154.0,PHY,Pr
+1069,0.0,0.0, Parapyramidal nucleus,95600,370.0,MY-mot,PPy
+701,0.0,0.0, Vestibulocerebellar nucleus,95900,370.0,MY-mot,VeCb
+217,0.0,0.0, Superior vestibular nucleus,96000,701.0,VeCb,SuVe
+209,0.0,0.0, Lateral vestibular nucleus,96050,701.0,VeCb,LVe
+202,0.0,0.0, Medial vestibular nucleus,96100,701.0,VeCb,MVe
+2232,0.0,0.0, Medial vestibular nucleus magnocellular part,96110,202.0,MVe,MVeMC
+2233,0.0,0.0, Medial vestibular nucleus parvicellular part,96120,202.0,MVe,MVePC
+2368,0.0,0.0, Medial vestibular nucleus parvicellular part dorsal,96130,2233.0,MVePC,MVePd
+2369,0.0,0.0, Medial vestibular nucleus parvicellular part ventral,96140,2233.0,MVePC,MVePv
+225,0.0,0.0, Spinal vestibular nucleus,96200,701.0,VeCb,SpVe
+2268,0.0,0.0, F cell group of the vestibular complex,96310,701.0,VeCb,FVe
+2218,0.0,0.0, Paracochlear glial substance,96320,701.0,VeCb,PCGS
+765,0.0,0.0, Nucleus X,96400,370.0,MY-mot,X
+2267,0.0,0.0, Matrix region of the medulla,96410,370.0,MY-mot,Mx
+773,0.0,0.0, Hypoglossal nucleus,96500,370.0,MY-mot,12N
+2272,0.0,0.0, Central cervical nucleus of the spinal cord,96510,370.0,MY-mot,CeCv
+781,0.0,0.0, Nucleus Y of the vestibular complex,96600,370.0,MY-mot,Y
+379,0.0,2.0, Medulla behavioral state related,96800,354.0,MY,MY-sat
+206,0.0,2.0, RaphÈ magnus nucleus,96900,379.0,MY-sat,RMg
+2212,2.0,2.0, RaphÈ interpositus nucleus,96910,206.0,RMg,RIP
+230,0.0,0.0, RaphÈ pallidus nucleus,97000,379.0,MY-sat,RPa
+222,0.0,0.0, RaphÈ obscurus nucleus,97100,379.0,MY-sat,ROb
+1009,0.0,7968.0, fiber tracts,97200,997.0,root,fiber_tracts
+2155,0.0,0.0, basilar artery,97210,997.0,root,bas
+967,0.0,2916.0, cranial nerves,97300,1009.0,fiber_tracts,cm
+949,0.0,0.0, vomeronasal nerve,97500,967.0,cm,vn
+840,0.0,1.0, olfactory nerve,97600,967.0,cm,on
+1016,0.0,0.0, olfactory nerve layer,97700,840.0,on,onl
+21,0.0,0.0, lateral olfactory tract general,97800,840.0,on,lotg
+2279,0.0,0.0, dorsal lateral olfactory tract,97900,21.0,lotg,dlo
+665,0.0,0.0, lateral olfactory tract,97900,21.0,lotg,lo
+459,0.0,0.0, accessory olfactory tract,98100,21.0,lotg,aot
+900,1.0,1.0, anterior commissure anterior part,98200,840.0,on,aca
+2317,0.0,0.0, anterior commissure intrabulbar part,98210,840.0,on,aci
+848,0.0,4.0, optic nerve,98300,967.0,cm,2n
+916,1.0,1.0, brachium of the superior colliculus,98500,848.0,2n,bsc
+336,1.0,1.0, commissure of the superior colliculus,98600,848.0,2n,csc
+117,0.0,0.0, optic chiasm,98700,848.0,2n,och
+125,2.0,2.0, optic tract,98800,848.0,2n,opt
+2040,0.0,0.0, supraoptic decussation,98810,848.0,2n,sox
+832,0.0,97.0, oculomotor nerve,99000,967.0,cm,3n
+62,82.0,82.0, medial longitudinal fasciculus,99100,832.0,3n,mlf
+158,15.0,15.0, posterior commissure,99200,832.0,3n,pc
+911,0.0,0.0, trochlear nerve,99300,967.0,cm,4n
+901,0.0,257.0, trigeminal nerve,99600,967.0,cm,5n
+93,48.0,48.0, motor root of the trigeminal nerve,99700,901.0,5n,m5
+229,0.0,209.0, sensory root of the trigeminal nerve,99800,901.0,5n,s5
+705,0.0,0.0, mesencephalic trigeminal tract,99900,229.0,s5,me5
+794,47.0,47.0, spinal trigeminal tract,100000,229.0,s5,sp5
+798,0.0,330.0, facial nerve,100100,967.0,cm,7n
+1131,0.0,0.0, ascending fibers of the facial nerve,100200,798.0,7n,asc7
+1116,0.0,0.0, genu of the facial nerve,100300,798.0,7n,g7
+933,0.0,1206.0, vestibulocochlear nerve,100400,967.0,cm,8n
+2461,0.0,0.0, interstitial nucleus of the vestibular part of the 8th nerve,100410,933.0,8n,I8
+413,0.0,0.0, vestibular root of the vestibulocochlear nerve,100600,933.0,8n,8vn
+948,0.0,1204.0, cochlear nerve,100700,933.0,8n,8cn
+2222,0.0,0.0, olivocochlear bundle,100710,967.0,cm,ocb
+841,0.0,0.0, trapezoid body,100800,948.0,8cn,tz
+506,0.0,0.0, dorsal acoustic stria,101000,948.0,8cn,das
+658,1204.0,1204.0, lateral lemniscus,101100,948.0,8cn,ll
+633,0.0,0.0, commissure of the inferior colliculus,101200,948.0,8cn,cic
+482,0.0,0.0, brachium of the inferior colliculus,101300,948.0,8cn,bic
+808,0.0,0.0, glossopharyngeal nerve,101400,967.0,cm,9n
+917,0.0,0.0, vagus nerve,101500,967.0,cm,10n
+237,0.0,0.0, solitary tract,101600,917.0,10n,sol
+813,0.0,0.0, hypoglossal nerve,101800,967.0,cm,12n
+792,0.0,1021.0, dorsal roots,102000,967.0,cm,drt
+932,0.0,1021.0, cervicothalamic tract,102100,792.0,drt,cett
+514,0.0,0.0, dorsal column,102600,932.0,cett,dc
+380,0.0,0.0, cuneate fascicle,102700,514.0,dc,cf
+388,0.0,0.0, gracile fasciculus,102800,514.0,dc,gr
+697,1021.0,1021.0, medial lemniscus,103000,932.0,cett,ml
+871,0.0,0.0, spinothalamic tract,103100,967.0,cm,sst
+293,0.0,0.0, vestibulospinal tract,103700,871.0,sst,vesp
+960,0.0,1596.0, cerebellum related fiber tracts,104200,1009.0,fiber_tracts,cbf
+744,0.0,0.0, cerebellar commissure,104300,960.0,cbf,cbc
+752,0.0,1596.0, cerebellar peduncles,104400,960.0,cbf,cbp
+326,0.0,1508.0, superior cerebellar peduncle,104500,752.0,cbp,scp
+812,0.0,589.0, decussation of the superior cerebellar peduncle,104600,326.0,scp,xscp
+85,242.0,242.0, ventral spinocerebellar tract,104700,812.0,xscp,vsct
+850,0.0,0.0, uncinate fasciculus of the cerebellum,104800,326.0,scp,un
+866,0.0,0.0, ventral spinocerebellar tract-,104900,326.0,scp,vsc
+78,0.0,80.0, middle cerebellar peduncle,105000,752.0,cbp,mcp
+2167,8.0,8.0, transverse fibers of the pons,105010,78.0,mcp,tfp
+1123,0.0,8.0, inferior cerebellar peduncle,105100,752.0,cbp,icp
+553,0.0,0.0, dorsal spinocerebellar tract,105200,1123.0,icp,dsc
+490,0.0,0.0, bulbocerebellar tract,105500,1123.0,icp,bct
+404,0.0,0.0, olivocerebellar tract,105600,490.0,bct,oc
+2275,0.0,0.0, cerebellar white matter,105810,967.0,cm,cbw
+728,0.0,0.0, middle cerebellar peduncle- ,105900,960.0,cbf,mcep
+983,0.0,35.0, lateral forebrain bundle system,106000,1009.0,fiber_tracts,lfbs
+776,0.0,0.0, corpus callosum,106100,983.0,lfbs,cc
+956,0.0,0.0, forceps minor of the corpus callosum,106200,776.0,cc,fmi
+579,0.0,0.0, external capsule,106300,956.0,fmi,ec
+1108,0.0,0.0, genu of the corpus callosum,106500,776.0,cc,gcc
+971,0.0,0.0, forceps major of the corpus callosum,106600,776.0,cc,fmj
+986,0.0,0.0, splenium of the corpus callosum,106800,776.0,cc,scc
+784,0.0,35.0, corticospinal tract,106900,983.0,lfbs,cst
+6,15.0,15.0, internal capsule,107000,784.0,cst,ic
+924,15.0,15.0, cerebral peduncle,107100,784.0,cst,cp
+190,0.0,0.0, pyramidal tract,107600,784.0,cst,py
+198,0.0,0.0, pyramidal decussation,107700,784.0,cst,pyx
+2169,5.0,5.0, longitudinal fasciculus of the pons,107910,784.0,cst,lfp
+896,0.0,0.0, thalamus related,108000,983.0,lfbs,lfbst
+1092,0.0,0.0, External medullary lamina,108100,896.0,lfbst,eml
+14,0.0,0.0, internal medullary lamina,108200,896.0,lfbst,iml
+2109,0.0,0.0, superior thalamic radiation,108210,896.0,lfbst,str
+1000,0.0,2103.0, extrapyramidal fiber systems,108500,1009.0,fiber_tracts,eps
+760,0.0,174.0, cerebral nuclei related,108600,1000.0,eps,epsc
+102,174.0,174.0, nigrostriatal bundle,108800,760.0,epsc,ns
+877,0.0,333.0, tectospinal tract,109300,1000.0,eps,ts
+1060,166.0,166.0, dorsal tegmental decussation,109500,877.0,ts,dtgx
+863,0.0,1596.0, rubrospinal tract,109700,1000.0,eps,rs
+397,369.0,369.0, ventral tegmental decussation,109800,863.0,rs,vtgx
+941,0.0,0.0, vestibulomesencephalic tract,110400,1000.0,eps,veme
+991,0.0,1318.0, medial forebrain bundle system,110500,1009.0,fiber_tracts,mfbs
+768,0.0,42.0, cerebrum related,110600,991.0,mfbs,mfbc
+908,1.0,1.0, anterior commissure posterior limb,110900,768.0,mfbc,acp
+940,0.0,0.0, cingulum,111000,768.0,mfbc,cg
+1099,0.0,41.0, fornix system,111100,768.0,mfbc,fxs
+466,0.0,0.0, alveus of the hippocampus,111200,1099.0,fxs,alv
+530,0.0,0.0, dorsal fornix,111300,1099.0,fxs,df
+603,0.0,0.0, fimbria of the hippocampus,111400,1099.0,fxs,fi
+737,0.0,41.0, postcommissural fornix,111700,1099.0,fxs,fxpo
+436,41.0,41.0, fornix,111900,737.0,fxpo,f
+618,0.0,0.0, hippocampal commissures,112000,1099.0,fxs,hc
+443,0.0,0.0, dorsal hippocampal commissure,112100,618.0,hc,dhc
+449,0.0,0.0, ventral hippocampal commissure,112200,618.0,hc,vhc
+37,0.0,0.0, longitudinal association bundle,112500,768.0,mfbc,lab
+301,0.0,0.0, stria terminalis,112600,768.0,mfbc,st
+2394,0.0,0.0, commissural stria terminalis,112610,301.0,st,cmst
+824,0.0,1276.0, hypothalamus related,112700,991.0,mfbs,mfsbshy
+54,0.0,0.0, medial forebrain bundle,112800,824.0,mfsbshy,mfb
+341,69.0,69.0, retromammillary decussation,113600,824.0,mfsbshy,rmx
+46,0.0,1074.0, mammillary related,114300,824.0,mfsbshy,mfbsma
+753,4.0,4.0, principal mammillary tract,114400,46.0,mfbsma,pm
+690,921.0,921.0, mammilothalmic tract,114500,46.0,mfbsma,mt
+681,149.0,149.0, mammillotegmental tract,114600,46.0,mfbsma,mtg
+673,0.0,0.0, mammillary peduncle,114700,46.0,mfbsma,mp
+1083,0.0,133.0, epithalamus related,115000,824.0,mfsbshy,mfbse
+802,5.0,5.0, stria medullaris,115100,1083.0,mfbse,sm
+595,128.0,128.0, fasciculus retroflexus,115200,1083.0,mfbse,fr
+611,0.0,0.0, habenular commissure,115300,1083.0,mfbse,hbc
+73,0.0,4.0, ventricular systems,115800,997.0,root,VS
+81,0.0,1.0, lateral ventricle,115900,73.0,VS,LV
+98,0.0,0.0, ependymal and subendymal layer/olfacotry ventricle,116100,81.0,LV,E/OV
+108,0.0,0.0, choroid plexus,116200,81.0,LV,chp
+124,0.0,0.0, interventricular foramen,116400,73.0,VS,IVF
+129,0.0,2.0, 3rd Ventricle,116500,73.0,VS,3V
+2373,2.0,2.0, dorsal third ventricle,116510,129.0,3V,D3V
+140,0.0,0.0, aqueduct,116600,73.0,VS,Aq
+145,0.0,1.0, 4th Ventricle,116700,73.0,VS,4V
+2219,0.0,0.0, superior medullary velum,116710,145.0,4V,SMV
+153,1.0,1.0, lateral recess of the 4th ventricle,116800,145.0,4V,LR4V
+164,0.0,0.0, central canal,116900,73.0,VS,CC
+1024,0.0,21.0, grooves,117000,997.0,root,grv
+1032,0.0,0.0, grooves of the cerebral cortex,117100,1024.0,grv,grv_of_CTX
+1063,0.0,0.0, hippocampal fissure,117300,1032.0,grv_of_CTX,hif
+1071,0.0,0.0, rhinal fissure,117400,1032.0,grv_of_CTX,rf
+1040,0.0,0.0, grooves of the cerebellar cortex,117600,1024.0,grv,grv_of_CBX
+1087,0.0,0.0, precentral fissure,117700,1040.0,grv_of_CBX,pcn
+1095,0.0,0.0, preculminate,117800,1040.0,grv_of_CBX,pcuf
+1103,0.0,0.0, primary fissure,117900,1040.0,grv_of_CBX,prf
+1112,0.0,0.0, post superior fissure,118000,1040.0,grv_of_CBX,psf
+1119,0.0,0.0, prepyramidal fissure,118100,1040.0,grv_of_CBX,ppf
+3,0.0,0.0, secondary fissure,118200,1040.0,grv_of_CBX,sf
+11,0.0,0.0, posterolateral fissure,118300,1040.0,grv_of_CBX,plf
+34,0.0,0.0, intercrural fissure,118600,1040.0,grv_of_CBX,icf
+43,0.0,0.0, ansoparamedian fissure,118700,1040.0,grv_of_CBX,apmf
+65,0.0,0.0, parafloccular sulcus,119000,1040.0,grv_of_CBX,pfs
+624,21.0,21.0, Interpeduncular fossa,119100,1024.0,grv,IPF
+2502,0.0,0.0, 3rd Ventricle leaf,116500,129.0,3V,3V_leaf
+103,1.0,1.0, lateral ventricle leaf,115900,81.0,LV,LV_leaf
+1186,0.0,0.0, 4th Ventricle leaf,116700,145.0,4V,4V_leaf
+396,1227.0,1227.0, rubrospinal tract leaf,109700,863.0,rs,rs_leaf
+1055,167.0,167.0, tectospinal tract leaf,109300,877.0,ts,ts_leaf
+1003,0.0,0.0, corpus callosum leaf,106100,776.0,cc,cc_leaf
+1221,1.0,1.0, Midbrain leaf,78500,313.0,MB,MB_leaf
+1122,330.0,330.0, facial nerve leaf,100100,798.0,7n,7n_leaf
+1274,2.0,2.0, vestibulocochlear nerve leaf,100400,933.0,8n,8n_leaf
+965,694.0,694.0, Midbrain motor related leaf,79900,323.0,MBmot,MBmot_leaf
+2196,0.0,0.0, Medial cerebellar nucleus leaf,63000,989.0,Med,Med_leaf
+447,0.0,0.0, Cortical subplate leaf,46400,703.0,CTXsp,CTXsp_leaf
+751,162.0,162.0, sensory root of the trigeminal nerve leaf,99800,229.0,s5,s5_leaf
+2503,0.0,0.0, stria terminalis leaf,112600,301.0,st,st_leaf
+838,919.0,919.0, superior cerebellar peduncle leaf,104500,326.0,scp,scp_leaf
+1378,1.0,1.0, Thalamus leaf,63500,549.0,TH,TH_leaf
+1350,242.0,242.0, Pons leaf,84700,771.0,P,P_leaf
+2171,72.0,72.0, middle cerebellar peduncle leaf,105000,78.0,mcp,mcp_leaf
+521,8.0,8.0, inferior cerebellar peduncle leaf,105100,1123.0,icp,icp_leaf
+584,0.0,0.0, forceps minor of the corpus callosum leaf,106200,956.0,fmi,fmi_leaf
+855,273.0,273.0, Medulla leaf,89400,354.0,MY,MY_leaf
+2113,13.0,13.0, Oculomotor nerve leaf,82800,35.0,3N,3N_leaf
+2106,0.0,0.0, Retroisthmic nucleus leaf,80200,246.0,RIs,RIs_leaf
+1999,0.0,0.0, Claustrum leaf,46600,583.0,Cl,Cl_leaf
+1163,7.0,7.0, Ventral pallidum leaf,52000,835.0,VeP,VeP_leaf
+2084,22.0,22.0, Interstitial nucleus of Cajal leaf,81700,67.0,InC,InC_leaf
+572,0.0,0.0, Olfactory areas leaf,29900,698.0,OLF,OLF_leaf
+2083,80.0,80.0, Periaqueductal gray leaf,81500,795.0,PAG,PAG_leaf
+602,0.0,0.0, Striatum ventral region leaf,48300,493.0,STRv,STRv_leaf
+2045,0.0,0.0, Lateral amygdaloid nucleus leaf,47000,131.0,La,La_leaf
+1998,0.0,0.0, Trochlear nucleus leaf,83000,115.0,4N,4N_leaf
+86,347.0,347.0, decussation of the superior cerebellar peduncle leaf,104600,812.0,xscp,xscp_leaf
+1997,4.0,4.0, Ventral tegmental area leaf,80100,749.0,VTA,VTA_leaf
+1996,0.0,0.0, Substantia nigra compact part leaf,83800,374.0,SNC,SNC_leaf
+1995,1.0,1.0, Edinger-Westphal nucleus leaf,82900,975.0,EW,EW_leaf
+1994,30.0,30.0, Red nucleus leaf,82700,214.0,R,R_leaf
+1310,13.0,13.0, Medulla motor related leaf,92200,370.0,MY-mot,MY-mot_leaf
+1993,0.0,0.0, Cuneiform nucleus leaf,82600,616.0,CnF,CnF_leaf
+1992,209.0,209.0, Pedunculotegmental nucleus leaf,83900,1052.0,PTg,PTg_leaf
+420,24.0,24.0, Subparafascicular thalamic nucleus leaf,64500,406.0,SPF,SPF_leaf
+2504,2.0,2.0, Botzinger complex leaf,95040,2468.0,Bo,Bo_leaf
+2505,0.0,0.0, Barrington's nucleus leaf,87100,280.0,Bar,Bar_leaf
+627,0.0,0.0, Parabrachial nucleus leaf,85400,867.0,PB,PB_leaf
+1019,0.0,0.0, Frontal association cortex leaf,600,184.0,FrA,FrA_leaf
+2506,19.0,19.0, Motor trigeminal nucleus leaf,88200,621.0,5N,5N_leaf
+889,0.0,0.0, Vestibulocerebellar nucleus leaf,95900,701.0,VeCb,VeCb_leaf
+1991,4.0,4.0, Medial tuberal nucleus leaf,78000,614.0,MTu,MTu_leaf
+1093,1.0,1.0, Ventromedial hypothalamic nucleus leaf,76700,693.0,VMH,VMH_leaf
+2507,0.0,0.0, Intercalated nuclei of the amygdala leaf,50700,1105.0,I,I_leaf
+1990,40.0,40.0, Dorsal raphÈ nucleus leaf,84500,872.0,DR,DR_leaf
+563,0.0,0.0, Perihinal cortex leaf,28700,922.0,PRh,PRh_leaf
+884,0.0,0.0, Midline group of the dorsal thalamus leaf,67900,571.0,MTN,MTN_leaf
+1989,0.0,0.0, Arcuate hypothalamic nucleus leaf,71800,223.0,Arc,Arc_leaf
+1143,0.0,0.0, Amygdalopiriform transition area leaf,36900,566.0,Apir,Apir_leaf
+179,0.0,0.0, Anterior olfactory area leaf,31000,159.0,AO,AO_leaf
+1988,0.0,0.0, Retrochiasmatic area leaf,77800,173.0,RCh,RCh_leaf
+555,0.0,0.0, Nucleus of the lateral olfactory tract leaf,34100,619.0,LOT,LOT_leaf
+539,0.0,0.0, Temporal association cortex leaf,28000,541.0,TeA ,TeA _leaf
+1987,0.0,0.0, Interstitial nucleus of the posterior limb of the anterior commissure leaf,48500,998.0,IPAC,IPAC_leaf
+1986,0.0,0.0, Suprachiasmatic nucleus leaf,73700,286.0,SCh,SCh_leaf
+858,0.0,0.0, Ectorhinal cortex leaf,29300,895.0,Ect,Ect_leaf
+1985,0.0,0.0, Supraoptic nucleus leaf,70200,390.0,SO,SO_leaf
+1984,0.0,0.0, Nucleus of the posterior commissure leaf,82300,634.0,PCom,PCom_leaf
+1983,0.0,0.0, Abducens nucleus leaf,92300,653.0,6N,6N_leaf
+1982,2766.0,2766.0, Lateral hypothalamic area leaf,77300,194.0,LH,LH_leaf
+1619,0.0,0.0, Solitary nucleus leaf,90700,651.0,Sol,Sol_leaf
+1981,2.0,2.0, Anterior pretectal nucleus leaf,82000,215.0,APT,APT_leaf
+1980,9.0,9.0, Principal sensory trigeminal nucleus leaf,85300,7.0,Pr5,Pr5_leaf
+730,0.0,0.0, Olfactory tubercle leaf,48600,754.0,Tu,Tu_leaf
+1398,2.0,2.0, Lateral paragigantocellular nucleus leaf,94800,938.0,LPGi,LPGi_leaf
+964,43.0,43.0, Lateral reticular nucleus leaf,93900,235.0,LRt,LRt_leaf
+1979,4.0,4.0, Dorsomedial hypothalamic nucleus leaf,72400,830.0,DM,DM_leaf
+2508,0.0,0.0, Inferior olivary nucleus leaf,93500,83.0,IO,IO_leaf
+1978,0.0,0.0, Central gray leaf,87400,898.0,CG,CG_leaf
+2509,144.0,144.0, Facial nucleus leaf,92500,661.0,7N,7N_leaf
+1977,9.0,9.0, Reticulotegmental nucleus of the pons leaf,88100,574.0,RtTg,RtTg_leaf
+1976,3.0,3.0, Medial preoptic area leaf,72900,523.0,MPA,MPA_leaf
+1975,466.0,466.0, Intermediate reticular nucleus leaf,93600,136.0,IRt,IRt_leaf
+1974,9.0,9.0, Gigantocellular reticular nucleus leaf,93300,1048.0,Gi,Gi_leaf
+1973,44.0,44.0, Parvicellular reticular nucleus leaf,94600,852.0,PCRt,PCRt_leaf
+1972,0.0,0.0, External cortex of the inferior colliculus leaf,79400,828.0,ECIC,ECIC_leaf
+1971,0.0,0.0, RaphÈ magnus nucleus leaf,96900,206.0,RMg,RMg_leaf
+1863,0.0,0.0, Zona incerta leaf,78100,797.0,ZI,ZI_leaf
+1134,0.0,0.0, Paralemniscal nucleus leaf,84900,612.0,PL,PL_leaf
+1115,0.0,0.0, Paramedian reticular nucleus leaf,94300,395.0,PMn,PMn_leaf
+47,20.0,20.0, Spinal trigeminal nucleus oral part leaf,91500,445.0,Sp5O,Sp5O_leaf
+1341,0.0,0.0, Medial geniculate nucleus leaf,65100,475.0,MG,MG_leaf
+2510,0.0,0.0, Ventral orbital cortex leaf,22600,738.0,VO,VO_leaf
+1970,0.0,0.0, Xiphoid thalamic nucleus leaf,68110,2038.0,Xi,Xi_leaf
+10691,0.0,0.0, Parasubiculum leaf,44300,843.0,PaS,PaS_leaf
+1969,2.0,2.0, Posterior thalamic nuclear group leaf,65900,1020.0,Po,Po_leaf
+1124,163.0,163.0, Anteromedial thalamic nucleus leaf,66400,1096.0,AM,AM_leaf
+1968,0.0,0.0, Pregeniculate nucleus of the prethalamus leaf,69200,178.0,PrG,PrG_leaf
+635,0.0,0.0, Medial orbital cortex leaf,22000,731.0,MO,MO_leaf
+1155,0.0,0.0, Subiculum leaf,45500,502.0,SUB,SUB_leaf
+1967,0.0,0.0, Paracentral thalamic nucleus leaf,68600,907.0,PC,PC_leaf
+480,0.0,0.0, Lateral orbital cortex leaf,21400,723.0,LO,LO_leaf
+2511,0.0,0.0, Intercalated nucleus leaf,95200,161.0,In,In_leaf
+1656,75.0,75.0, Medial mammillary nucleus medial part leaf,74800,491.0,MM,MM_leaf
+1292,0.0,0.0, Lateral parabrachial nucleus leaf,85600,881.0,LPB,LPB_leaf
+641,0.0,0.0, Mediodorsal thalamic nucleus leaf,67300,362.0,MD,MD_leaf
+1966,0.0,0.0, Anterior hypothalamic area posterior part leaf,74500,724.0,AHP,AHP_leaf
+7346,0.0,0.0, Dentate gyrus leaf,39300,726.0,DG,DG_leaf
+2512,0.0,0.0, Cuneate nucleus leaf,90300,711.0,Cu,Cu_leaf
+1965,0.0,0.0, Medial septal nucleus leaf,52500,564.0,MS,MS_leaf
+1964,0.0,0.0, Dorsal cochlear nucleus leaf,90000,96.0,DC,DC_leaf
+2513,0.0,0.0, Laterodorsal tegmental nucleus dorsal part leaf,88810,162.0,LDTg,LDTg_leaf
+894,6.0,6.0, Medial parabrachial nucleus leaf,86200,890.0,MPB,MPB_leaf
+937,0.0,0.0, Primary visual cortex leaf,17600,385.0,V1,V1_leaf
+1125,165.0,165.0, Retromamillary nucleus leaf,75000,525.0,RM,RM_leaf
+2514,37.0,37.0, Submedius thalamic nucleus leaf,67700,366.0,Sub,Sub_leaf
+1963,306.0,306.0, Posterior hypothalamic nucleus leaf,77150,946.0,PH,PH_leaf
+1962,0.0,0.0, Medial vestibular nucleus leaf,96100,202.0,MVe,MVe_leaf
+1961,0.0,0.0, Lateral habenular nucleus leaf,69800,186.0,LHb,LHb_leaf
+1960,30.0,30.0, Anteroventral thalamic nucleus leaf,66300,255.0,AV,AV_leaf
+389,16.0,16.0, Dorsolateral entorhinal cortex leaf,41350,918.0,DLEnt,DLEnt_leaf
+2515,1.0,1.0, Ventral posteromedial thalamic nucleus leaf,64200,733.0,VPM,VPM_leaf
+2516,0.0,0.0, Medial vestibular nucleus parvicellular part leaf,96120,2233.0,MVePC,MVePC_leaf
+2517,0.0,0.0, Caudoputamen- caudal intermediate leaf,48255,2494.0,"CPc, i","CPc, i_leaf"
+833,6.0,6.0, Dorsal subiculum leaf,45600,509.0,DS,DS_leaf
+876,0.0,0.0, Ventral subiculum leaf,46000,518.0,VeS,VeS_leaf
+2518,0.0,0.0, Medial entorhinal cortex leaf,44220,2159.0,MEnt,MEnt_leaf
+1959,0.0,0.0, Paraventricular hypothalamic nucleus anterior parivcellular part leaf,71300,55.0,PaAP,PaAP_leaf
+2519,0.0,0.0, Caudoputamen- caudal dorsal leaf,48251,2493.0,"CPc, d","CPc, d_leaf"
+2520,0.0,0.0, Caudomedial entothinal cortex leaf,44280,2161.0,CEnt,CEnt_leaf
+249,0.0,0.0, Posteromedial cortical amygdaloid area leaf,35800,663.0,PMCo,PMCo_leaf
+710,0.0,0.0, Primary somatosensory area undefined layer 1 leaf,2900,793.0,S1-1,S1-1_leaf

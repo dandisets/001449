@@ -1,0 +1,31 @@
+{
+  "Description": "Cell body detections in raw stitched image voxel space. Detected using ClearMap2 (Renier et al. 2016, updated pipeline). Columns: z, y, x are voxel indices in the full stitched image coordinate system (before resampling). intensity_mean and intensity_max are fluorescence values at the detected coordinate extracted from the raw image.",
+  "SourceFile": "overlap_strict_cells.npy",
+  "IntensityFile": "overlap_strict_intensities.npy",
+  "CoordinateSystem": "raw_stitched_voxel",
+  "CoordinateUnits": "voxels",
+  "SoftwareName": "ClearMap2",
+  "SoftwareVersion": "2.x",
+  "Columns": {
+    "z": {
+      "Description": "Z voxel coordinate (A-P axis in raw space)",
+      "Units": "voxels"
+    },
+    "y": {
+      "Description": "Y voxel coordinate (D-V axis in raw space)",
+      "Units": "voxels"
+    },
+    "x": {
+      "Description": "X voxel coordinate (M-L axis in raw space)",
+      "Units": "voxels"
+    },
+    "intensity_mean": {
+      "Description": "Mean fluorescence intensity of detected cell",
+      "Units": "a.u."
+    },
+    "intensity_max": {
+      "Description": "Peak fluorescence intensity of detected cell",
+      "Units": "a.u."
+    }
+  }
+}

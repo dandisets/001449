@@ -1,0 +1,70 @@
+{
+  "participant_id": {
+    "Description": "Unique BIDS participant identifier"
+  },
+  "original_id": {
+    "Description": "Original animal ID in the experimenter's records"
+  },
+  "date_of_birth": {
+    "Description": "Date of birth (ISO 8601)",
+    "Units": "YYYY-MM-DD"
+  },
+  "sex": {
+    "Description": "Biological sex",
+    "Levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "body_weight_g": {
+    "Description": "Body weight at time of injection",
+    "Units": "grams"
+  },
+  "condition": {
+    "Description": "Experimental group label"
+  },
+  "drug": {
+    "Description": "Drug administered",
+    "Levels": {
+      "Morphine": "Morphine sulphate",
+      "Cocaine": "Cocaine hydrochloride",
+      "Saline": "0.9% saline vehicle control"
+    }
+  },
+  "cage": {
+    "Description": "Home cage ID (animals sharing a cage were cage-mates)"
+  },
+  "date_injection": {
+    "Description": "Date of first drug injection (ISO 8601)"
+  },
+  "date_perfusion": {
+    "Description": "Date of transcardial perfusion (ISO 8601)"
+  },
+  "staining_batch": {
+    "Description": "Immunostaining batch number (1\u20134); batch is a covariate"
+  },
+  "chronic": {
+    "Description": "Received repeated daily injections prior to acute injection",
+    "Levels": {
+      "TRUE": "Yes",
+      "FALSE": "No"
+    }
+  },
+  "acute": {
+    "Description": "Received an acute challenge injection before perfusion",
+    "Levels": {
+      "TRUE": "Yes",
+      "FALSE": "No"
+    }
+  },
+  "spontaneous_withdrawal": {
+    "Description": "Perfused during spontaneous withdrawal (no final challenge)",
+    "Levels": {
+      "TRUE": "Yes",
+      "FALSE": "No"
+    }
+  },
+  "notes": {
+    "Description": "Experimenter notes (e.g. perfusion quality)"
+  }
+}

@@ -1,0 +1,128 @@
+participant_id	original_id	dataset	date_of_birth	sex	body_weight_g	condition	drug	cage	date_injection	date_perfusion	staining_batch
+sub-A1	A1	opioid_cFos	11/9/2023	F	21	Acute_Morphine	Morphine	287527	1/30/2024	2/6/2024	1
+sub-A2	A2	opioid_cFos	11/9/2023	M	27	Acute_Morphine	Morphine	287528	1/30/2024	2/6/2024	1
+sub-A3	A3	opioid_cFos	8/14/2023	M	37	Acute_Morphine	Morphine	267319	1/30/2024	2/6/2024	1
+sub-A4	A4	opioid_cFos	9/1/2023	M	33	Acute_Morphine	Morphine	277640	1/30/2024	2/6/2024	1
+sub-A5	A5	opioid_cFos	9/1/2023	M	30	Acute_Morphine	Morphine	277640	1/30/2024	2/6/2024	2
+sub-A6	A6	opioid_cFos	11/9/2023	M	26.5	Acute_Morphine	Morphine	287526	1/30/2024	2/6/2024	2
+sub-A8	A8	opioid_cFos	11/9/2023	M	25.5	Acute_Morphine	Morphine	287526	1/30/2024	2/6/2024	2
+sub-C1	C1	opioid_cFos	11/9/2023	F	20	Chronic_Morphine	Morphine	284025	1/30/2024	2/6/2024	1
+sub-C2	C2	opioid_cFos	11/9/2023	F	20	Chronic_Morphine	Morphine	284025	1/30/2024	2/6/2024	1
+sub-C3	C3	opioid_cFos	9/1/2023	M	32	Chronic_Morphine	Morphine	277641	1/30/2024	2/6/2024	1
+sub-C4	C4	opioid_cFos	9/1/2023	M	32.5	Chronic_Morphine	Morphine	277641	1/30/2024	2/6/2024	1
+sub-C5	C5	opioid_cFos	9/1/2023	M	32	Chronic_Morphine	Morphine	277641	1/30/2024	2/6/2024	2
+sub-C6	C6	opioid_cFos	9/1/2023	M	32	Chronic_Morphine	Morphine	277641	1/30/2024	2/6/2024	2
+sub-C7	C7	opioid_cFos	9/1/2023	M	29.2	Chronic_Morphine	Morphine	284026	1/30/2024	2/6/2024	2
+sub-C8	C8	opioid_cFos	9/1/2023	M	31	Chronic_Morphine	Morphine	284026	1/30/2024	2/6/2024	2
+sub-S1	S1	opioid_cFos	11/9/2023	F	21.6	Saline	Saline	287527	1/30/2024	2/6/2024	1
+sub-S2	S2	opioid_cFos	11/9/2023	M	27	Saline	Saline	287528	1/30/2024	2/6/2024	1
+sub-S3	S3	opioid_cFos	11/9/2023	M	27.3	Saline	Saline	287528	1/30/2024	2/6/2024	1
+sub-S4	S4	opioid_cFos	8/14/2023	M	37	Saline	Saline	267319	1/30/2024	2/6/2024	1
+sub-S5	S5	opioid_cFos	9/1/2023	M	31	Saline	Saline	277640	1/30/2024	2/6/2024	2
+sub-S6	S6	opioid_cFos	9/1/2023	M	28	Saline	Saline	277640	1/30/2024	2/6/2024	2
+sub-S7	S7	opioid_cFos	11/9/2023	M	26.5	Saline	Saline	287526	1/30/2024	2/6/2024	2
+sub-S8	S8	opioid_cFos	11/9/2023	M	26	Saline	Saline	287526	1/30/2024	2/6/2024	2
+sub-MoW1	MoW1	opioid_cFos	3/24/2024	M	20.5	Withdrawal_Morphine	Morphine	313952	5/2/2024	5/10/2024	3
+sub-MoW2	MoW2	opioid_cFos	3/24/2024	M	19.3	Withdrawal_Morphine	Morphine	313952	5/2/2024	5/10/2024	3
+sub-MoW3	MoW3	opioid_cFos	3/24/2024	M	19.3	Withdrawal_Morphine	Morphine	313952	5/2/2024	5/10/2024	3
+sub-MoW4	MoW4	opioid_cFos	3/31/2024	F	21.6	Withdrawal_Morphine	Morphine	309720	5/2/2024	5/10/2024	3
+sub-MoW5	MoW5	opioid_cFos	3/31/2024	F	20.3	Withdrawal_Morphine	Morphine	309720	5/2/2024	5/10/2024	3
+sub-MoW6	MoW6	opioid_cFos	3/31/2024	F	18.2	Withdrawal_Morphine	Morphine	309720	5/2/2024	5/10/2024	3
+sub-MoW7	MoW7	opioid_cFos	3/31/2024	F	15.3	Withdrawal_Morphine	Morphine	309720	5/2/2024	5/10/2024	3
+sub-MoW8	MoW8	opioid_cFos	3/31/2024	F	17.3	Withdrawal_Morphine	Morphine	309720	5/2/2024	5/10/2024	3
+sub-MoW211	MoW21_1	opioid_cFos	9/14/2024	M	20.1	Withdrawal_Morphine_21	Morphine	343744	11/1/2024	11/27/2024	4
+sub-MoW212	MoW21_2	opioid_cFos	9/14/2024	M	26.1	Withdrawal_Morphine_21	Morphine	343744	11/1/2024	11/27/2024	4
+sub-MoW213	MoW21_3	opioid_cFos	9/14/2024	M	22.1	Withdrawal_Morphine_21	Morphine	343746	11/1/2024	11/27/2024	4
+sub-MoW214	MoW21_4	opioid_cFos	9/14/2024	F	17.3	Withdrawal_Morphine_21	Morphine	343749	11/1/2024	11/27/2024	4
+sub-MoW215	MoW21_5	opioid_cFos	9/14/2024	F	17.5	Withdrawal_Morphine_21	Morphine	343749	11/1/2024	11/27/2024	4
+sub-MoW216	MoW21_6	opioid_cFos	9/14/2024	F	17.3	Withdrawal_Morphine_21	Morphine	343747	11/1/2024	11/27/2024	4
+sub-MoC211	MoC21_1	opioid_cFos	9/14/2024	M	24.2	Chronic_Morphine_21	Morphine	343744	11/1/2024	11/27/2024	4
+sub-MoC212	MoC21_2	opioid_cFos	9/14/2024	M	22.8	Chronic_Morphine_21	Morphine	343746	11/1/2024	11/27/2024	4
+sub-MoC213	MoC21_3	opioid_cFos	9/14/2024	M	27	Chronic_Morphine_21	Morphine	343746	11/1/2024	11/27/2024	4
+sub-MoC214	MoC21_4	opioid_cFos	9/14/2024	F	15.8	Chronic_Morphine_21	Morphine	343749	11/1/2024	11/27/2024	4
+sub-MoC215	MoC21_5	opioid_cFos	9/14/2024	F	18.8	Chronic_Morphine_21	Morphine	343747	11/1/2024	11/27/2024	4
+sub-MoC216	MoC21_6	opioid_cFos	9/14/2024	F	18.6	Chronic_Morphine_21	Morphine	343747	11/1/2024	11/27/2024	4
+sub-SM1	SM1	opioid_TRAP	1/15/2024	F	27	Sal-AcM		284041	2/23/2024	3/1/2024	1
+sub-SM2	SM2	opioid_TRAP	1/15/2024	F	27	Sal-AcM		284042	2/23/2024	3/1/2024	1
+sub-SM3	SM3	opioid_TRAP	1/15/2024	F	27	Sal-AcM		284043	2/23/2024	3/1/2024	1
+sub-MM1	MM1	opioid_TRAP	10/18/2023	F	27	AcM-AcM		272235	2/23/2024	3/1/2024	1
+sub-MM2	MM2	opioid_TRAP	10/18/2023	F	27	AcM-AcM		284036	2/23/2024	3/1/2024	1
+sub-MM3	MM3	opioid_TRAP	10/18/2023	F	27	AcM-AcM		284037	2/23/2024	3/1/2024	1
+sub-CM1	CM1	opioid_TRAP	10/30/2023	F	27	AcM-AcC		284042	2/23/2024	3/1/2024	1
+sub-CM2	CM2	opioid_TRAP	10/30/2023	F	27	AcM-AcC		284044	2/23/2024	3/1/2024	1
+sub-CM3	CM3	opioid_TRAP	10/30/2023	F	27	AcM-AcC		284043	2/23/2024	3/1/2024	1
+sub-MM4	MM4	opioid_TRAP	11/1/2023	M	32	AcM-AcM		304015	5/3/2024	5/11/2024	2
+sub-MM5	MM5	opioid_TRAP	11/1/2023	M	32	AcM-AcM		304015	5/3/2024	5/11/2024	2
+sub-MM6	MM6	opioid_TRAP	11/1/2023	M	32	AcM-AcM		304015	5/3/2024	5/11/2024	2
+sub-SM4	SM4	opioid_TRAP	11/1/2023	M	32	Sal-AcM		304015	5/3/2024	5/11/2024	2
+sub-SM5	SM5	opioid_TRAP	11/1/2023	M	32	Sal-AcM		304015	5/3/2024	5/11/2024	2
+sub-CM4	CM4	opioid_TRAP	11/1/2023	M	32	AcM-AcC		304016	5/3/2024	5/11/2024	2
+sub-CM5	CM5	opioid_TRAP	11/1/2023	M	32	AcM-AcC		304016	5/3/2024	5/11/2024	2
+sub-MW1	MW1	opioid_TRAP	11/1/2023	M	32	AcM-WDM		304016	5/3/2024	5/11/2024	2
+sub-MW2	MW2	opioid_TRAP	11/1/2023	M	32	AcM-WDM		304016	5/3/2024	5/11/2024	2
+sub-MW3	MW3	opioid_TRAP	11/1/2023	M	32	AcM-WDM		304016	5/3/2024	5/11/2024	2
+sub-MW4	MW4	opioid_TRAP	2/21/2023	M	32	AcM-WDM		303484	5/3/2024	5/11/2024	2
+sub-MW5	MW5	opioid_TRAP	2/21/2023	M	32	AcM-WDM		303484	5/3/2024	5/11/2024	2
+sub-MW6	MW6	opioid_TRAP	2/21/2023	M	32	AcM-WDM		303484	5/3/2024	5/11/2024	2
+sub-AC1	AC1	opioid_TRAP	5/8/2024	M	23	AcM-ChM		316556	7/23/2024	7/30/2024	3
+sub-AC4	AC4	opioid_TRAP	5/8/2024	F	18	AcM-ChM		316556	7/23/2024	7/30/2024	3
+sub-AC3	AC3	opioid_TRAP	5/8/2024	M	24	AcM-ChM		316556	7/23/2024	7/30/2024	3
+sub-AC6	AC6	opioid_TRAP	7/2/2024	M	23	AcM-ChM		324255	8/29/2024	9/5/2024	3
+sub-AC8	AC8	opioid_TRAP	7/2/2024	F	18	AcM-ChM		324255	8/29/2024	9/5/2024	3
+sub-AC7	AC7	opioid_TRAP	7/2/2024	M	24	AcM-ChM		324255	8/29/2024	9/5/2024	3
+sub-AC9	AC9	opioid_TRAP	7/2/2024	F	17	AcM-ChM		324255	8/29/2024	9/5/2024	3
+sub-m2701	m2701	oipioid_MORcKO	7/7/2025	F	20.1	VTA-GFP	Acute_Morphine	C00375775	8/27/2025	9/25/2025	1
+sub-m2702	m2702	oipioid_MORcKO	7/7/2025	F	20.6	VTA-GFP	Acute_Morphine	C00375775	8/27/2025	9/25/2025	1
+sub-m2703	m2703	oipioid_MORcKO	7/7/2025	F	21.3	VTA-Cre	Acute_Morphine	C00375775	8/27/2025	9/25/2025	1
+sub-m2705	m2705	oipioid_MORcKO	7/7/2025	M	29.1	VTA-GFP	Acute_Morphine	C00375773	8/27/2025	9/25/2025	1
+sub-m2706	m2706	oipioid_MORcKO	7/7/2025	M	26.3	VTA-GFP	Acute_Morphine	C00375773	8/27/2025	9/25/2025	1
+sub-m2707	m2707	oipioid_MORcKO	7/7/2025	M	26.4	VTA-GFP	Acute_Morphine	C00375773	8/27/2025	9/25/2025	1
+sub-m2708	m2708	oipioid_MORcKO	7/7/2025	M	28.2	VTA-GFP	Acute_Morphine	C00375773	8/27/2025	9/25/2025	1
+sub-m2709	m2709	oipioid_MORcKO	7/7/2025	M	26.9	VTA-GFP	Acute_Morphine	C00375773	8/27/2025	9/25/2025	1
+sub-m2710	m2710	oipioid_MORcKO	7/7/2025	M	27.6	VTA-Cre	Acute_Morphine	C00375774	8/27/2025	9/25/2025	1
+sub-m2711	m2711	oipioid_MORcKO	7/7/2025	M	27.7	VTA-Cre	Acute_Morphine	C00375774	8/27/2025	9/25/2025	1
+sub-m2712	m2712	oipioid_MORcKO	7/7/2025	M	25.6	VTA-Cre	Acute_Morphine	C00375774	8/27/2025	9/25/2025	1
+sub-m2713	m2713	oipioid_MORcKO	7/7/2025	M	26.7	VTA-Cre	Acute_Morphine	C00375774	8/27/2025	9/25/2025	1
+sub-m2714	m2714	oipioid_MORcKO	7/7/2025	M	25.6	VTA-Cre	Acute_Morphine	C00375774	8/27/2025	9/25/2025	1
+sub-m2161	m2161	oipioid_MORKOR	11/21/2024	F	17.6	Acute_Morphine	Morphine	347706	2/6/2025	2/13/2025	1
+sub-m2162	m2162	oipioid_MORKOR	11/21/2024	F	17	Acute_Morphine	Morphine	347706	2/6/2025	2/13/2025	1
+sub-m2163	m2163	oipioid_MORKOR	11/21/2024	F	17.2	Acute_Morphine	Morphine	347706	2/6/2025	2/13/2025	1
+sub-m2164	m2164	oipioid_MORKOR	11/21/2024	M	20.3	Acute_Morphine	Morphine	347705	2/6/2025	2/13/2025	1
+sub-m2167	m2167	oipioid_MORKOR	12/22/2024	M	30	Acute_Morphine	Morphine	353071	2/6/2025	2/13/2025	1
+sub-m2168	m2168	oipioid_MORKOR	12/5/2024	F	18.7	Acute_Morphine	Morphine	347748	2/6/2025	2/13/2025	1
+sub-m2169	m2169	oipioid_MORKOR	12/5/2024	F	23.6	Acute_Morphine	Morphine	347748	2/6/2025	2/13/2025	1
+sub-m2170	m2170	oipioid_MORKOR	12/5/2024	F	20.3	Acute_Morphine	Morphine	347748	2/6/2025	2/13/2025	1
+sub-m2171	m2171	oipioid_MORKOR	12/5/2024	M	26.8	Acute_Morphine	Morphine	347747	2/6/2025	2/13/2025	1
+sub-m2172	m2172	oipioid_MORKOR	12/5/2024	M	24.2	Acute_Morphine	Morphine	347747	2/6/2025	2/13/2025	1
+sub-m2173	m2173	oipioid_MORKOR	12/5/2024	M	24	Acute_Morphine	Morphine	347747	2/6/2025	2/13/2025	1
+sub-m2174	m2174	oipioid_MORKOR	12/5/2024	M	28.2	Acute_Morphine	Morphine	347747	2/6/2025	2/13/2025	2
+sub-m2731	m2731	opioid_acute	4/23/2025	F	23.4	Saline	Saline	C00368069	12/18/2025	12/18/2025	6
+sub-m2192	m2192	opioid_acute	9/14/2024	M	26.8	Saline	Saline	343745	3/20/2025	3/20/2025	4
+sub-m2194	m2194	opioid_acute	9/14/2024	F	21.2	Saline	Saline	343748	3/20/2025	3/20/2025	4
+sub-m2721	m2721	opioid_acute	10/14/2025	M	23.5	Acute_Morphine	Morphine	C00399727	12/18/2025	12/18/2025	6
+sub-m2732	m2732	opioid_acute	4/23/2025	F	23.1	Acute_Morphine	Morphine	C00368069	12/18/2025	12/18/2025	7
+sub-A7	A7	opioid_acute	11/9/2023	M	26	Acute_Morphine	Morphine	287526	1/30/2024	2/6/2024	2
+sub-m2722	m2722	opioid_acute	10/14/2025	M	26.1	Acute_Fentanyl	Fentanyl	C00399727	12/18/2025	12/18/2025	6
+sub-m2723	m2723	opioid_acute	10/14/2025	M	24.5	Acute_Fentanyl	Fentanyl	C00399727	12/18/2025	12/18/2025	7
+sub-m2729	m2729	opioid_acute	10/14/2025	F	18.4	Acute_Fentanyl	Fentanyl	C00399724	12/18/2025	12/18/2025	6
+sub-m2730	m2730	opioid_acute	10/14/2025	F	15.9	Acute_Fentanyl	Fentanyl	C00399724	12/18/2025	12/18/2025	7
+sub-m2734	m2734	opioid_acute	4/23/2025	F	22.5	Acute_Fentanyl	Fentanyl	C00368069	12/18/2025	12/18/2025	7
+sub-mS03	mS03	opioid_acute	9/14/2024	M	27	Acute_Fentanyl	Fentanyl		11/1/2024	11/27/2024	5
+sub-mS02	mS02	opioid_acute	9/14/2024	F	15.8	Acute_Fentanyl	Fentanyl		11/1/2024	11/27/2024	5
+sub-mS01	mS01	opioid_acute	9/14/2024	M	27	Acute_Fentanyl	Fentanyl		11/1/2024	11/27/2024	5
+sub-m2724	m2724	opioid_acute	10/14/2025	M	27.2	Acute_Buprenorphine	Buprenorphine	C00399727	12/18/2025	12/18/2025	6
+sub-m2725	m2725	opioid_acute	10/14/2025	M	24.5	Acute_Buprenorphine	Buprenorphine	C00399727	12/18/2025	12/18/2025	7
+sub-m2726	m2726	opioid_acute	10/14/2025	F	18.2	Acute_Buprenorphine	Buprenorphine	C00399724	12/18/2025	12/18/2025	6
+sub-m2727	m2727	opioid_acute	10/14/2025	F	17.4	Acute_Buprenorphine	Buprenorphine	C00399724	12/18/2025	12/18/2025	6
+sub-m2728	m2728	opioid_acute	10/14/2025	F	16.5	Acute_Buprenorphine	Buprenorphine	C00399724	12/18/2025	12/18/2025	7
+sub-m2733	m2733	opioid_acute	4/23/2025	F	19.1	Acute_Buprenorphine	Buprenorphine	C00368069	12/18/2025	12/18/2025	7
+sub-m2735	m2735	opioid_acute	10/14/2025	M	23.8	Acute_Buprenorphine	Buprenorphine	C00380411	12/18/2025	12/18/2025	6
+sub-m2736	m2736	opioid_acute	10/14/2025	M	24.5	Acute_Buprenorphine	Buprenorphine	C00380411	12/18/2025	12/18/2025	7
+sub-m2191	m2191	opioid_acute	9/14/2024	M	30.8	Acute_Oxycodone	Oxycodone	343745	3/20/2025	3/20/2025	4
+sub-m2193	m2193	opioid_acute	9/14/2024	M	32.3	Acute_Oxycodone	Oxycodone	343745	3/20/2025	3/20/2025	4
+sub-m2195	m2195	opioid_acute	9/14/2024	F	23.5	Acute_Oxycodone	Oxycodone	343748	3/20/2025	3/20/2025	4
+sub-m2196	m2196	opioid_acute	9/14/2024	F	22.3	Acute_Oxycodone	Oxycodone	343748	3/20/2025	3/20/2025	4
+sub-m2197	m2197	opioid_acute	1/22/2025	M	22	Acute_Oxycodone	Oxycodone	353145	3/20/2025	3/20/2025	4
+sub-m2198	m2198	opioid_acute	1/22/2025	M	20.7	Acute_Oxycodone	Oxycodone	353145	3/20/2025	3/20/2025	4
+sub-m2199	m2199	opioid_acute	1/22/2025	F	18.3	Acute_Oxycodone	Oxycodone	338218	3/20/2025	3/20/2025	4
+sub-m2200	m2200	opioid_acute	1/22/2025	F	17.9	Acute_Oxycodone	Oxycodone	338218	3/20/2025	3/20/2025	4

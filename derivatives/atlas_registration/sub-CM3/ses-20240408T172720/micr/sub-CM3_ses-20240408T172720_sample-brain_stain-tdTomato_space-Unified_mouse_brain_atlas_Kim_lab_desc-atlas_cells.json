@@ -1,0 +1,25 @@
+{
+  "Description": "Cell coordinates transformed from raw image space into Unified mouse brain atlas (Kim lab) (20x20x50 \u00b5m resolution) using the ClearMap2 elastix-based registration pipeline.  Registration was computed by aligning autofluo_for_signal_resampled to autofluo_resampled, then applying the resulting deformation field to the raw cell coordinates (items 6 & 7 in the data description).",
+  "CoordinateSystem": "Unified mouse brain atlas (Kim lab)",
+  "CoordinateUnits": "voxels",
+  "AtlasResolutionUm": [
+    20,
+    20,
+    50
+  ],
+  "SoftwareName": "ClearMap2",
+  "Columns": {
+    "z": {
+      "Description": "Z coordinate in Unified mouse brain atlas (Kim lab) (A-P axis)",
+      "Units": "voxels"
+    },
+    "y": {
+      "Description": "Y coordinate in Unified mouse brain atlas (Kim lab) (D-V axis)",
+      "Units": "voxels"
+    },
+    "x": {
+      "Description": "X coordinate in Unified mouse brain atlas (Kim lab) (M-L axis)",
+      "Units": "voxels"
+    }
+  }
+}

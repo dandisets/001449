@@ -1,0 +1,31 @@
+{
+  "Manufacturer": "LifeCanvas Technologies",
+  "ManufacturersModelName": "SmartSPIM2",
+  "PixelSize": [
+    16,
+    16,
+    16
+  ],
+  "PixelSizeUnits": "\u00b5m",
+  "ExcitationWavelength": 488,
+  "ExcitationWavelengthUnits": "nm",
+  "StainingMethod": "autofluorescence",
+  "SampleEnvironment": "ex vivo",
+  "BodyPart": "Brain",
+  "BodyPartDetails": "Whole brain, cleared and immunostained",
+  "SampleFixation": "4% paraformaldehyde",
+  "SampleStaining": "autofluo",
+  "Species": "Mus musculus",
+  "ChunkTransformationMatrixAxis": [
+    "Z",
+    "Y",
+    "X"
+  ],
+  "InstitutionName": "University of Washington",
+  "InstitutionalDepartmentName": "Garret Stuber lab",
+  "DateOfImagingSession": "2024-02-28",
+  "ResampledToCoronalOrientation": true,
+  "AxisSwapApplied": true,
+  "Notes": "Image has been destriped, stitched, and resampled from the raw SmartSPIM acquisition.  Axes swapped so dimension order is coronal (z=A-P, y=D-V, x=M-L). Resampled to 16x16x16 \u00b5m isotropic for signal-to-autofluo channel alignment (step 1). A separate 20x20x50 \u00b5m anisotropic reslice is used for atlas registration (step 2). Staining batch: 1.",
+  "Description": "Autofluorescence channel (488 nm) resampled to coronal orientation. Used as fixed image for atlas registration via ClearMap2/elastix."
+}
