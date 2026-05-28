@@ -1,0 +1,30 @@
+{
+  "Manufacturer": "LifeCanvas Technologies",
+  "ManufacturersModelName": "SmartSPIM2",
+  "PixelSize": [
+    16,
+    16,
+    16
+  ],
+  "PixelSizeUnits": "\u00b5m",
+  "ExcitationWavelength": 639,
+  "ExcitationWavelengthUnits": "nm",
+  "StainingMethod": "immunofluorescence",
+  "SampleEnvironment": "ex vivo",
+  "BodyPart": "Brain",
+  "BodyPartDetails": "Whole brain, cleared and immunostained",
+  "SampleFixation": "4% paraformaldehyde",
+  "SampleStaining": "cFos",
+  "Species": "Mus musculus",
+  "ChunkTransformationMatrixAxis": [
+    "Z",
+    "Y",
+    "X"
+  ],
+  "InstitutionName": "University of Washington",
+  "InstitutionalDepartmentName": "Garret Stuber lab",
+  "DateOfImagingSession": "2025-12-29",
+  "ResampledToCoronalOrientation": true,
+  "AxisSwapApplied": true,
+  "Notes": "Image has been destriped, stitched, and resampled from the raw SmartSPIM acquisition.  Axes swapped so dimension order is coronal (z=A-P, y=D-V, x=M-L). Resampled to 16x16x16 \u00b5m isotropic for signal-to-autofluo channel alignment (step 1). A separate 20x20x50 \u00b5m anisotropic reslice is used for atlas registration (step 2). Staining batch: 1."
+}

@@ -1,0 +1,10 @@
+{
+  "Description": "Grouped maximum-intensity projections of the raw stitched volume. Each TIFF frame is the max-Z projection of 125 consecutive z-planes from the full stitched image.  Provided for compact visualisation; use the resampled SPIM volumes for quantitative analysis.",
+  "ExcitationWavelength": 488,
+  "ExcitationWavelengthUnits": "nm",
+  "StainingMethod": "autofluorescence",
+  "GroupSize": 125,
+  "ProjectionAxis": "Z",
+  "ProjectionType": "Maximum Intensity Projection",
+  "SourceData": "Raw stitched image (full resolution, not resampled)"
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "cell_detection",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "cell_detection",
+      "Description": "Raw cell detection outputs in image space"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Whole-brain c-Fos mapping of opioid responses in mice",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "0000-0002-7956-0806"
+  ],
+  "Funding": [
+    "R37 DA032750",
+    "R01 DA038168",
+    "R01 DA054317",
+    "P30 DA048736 "
+  ],
+  "DatasetDOI": "DANDI:001449",
+  "HowToAcknowledge": "Please cite the dataset via DANDI:001449.",
+  "ReferencesAndLinks": [
+    "https://dandiarchive.org/dandiset/001449"
+  ]
+}
